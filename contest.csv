@@ -1,0 +1,1558 @@
+Contest,Id,Title
+weekly-contest-58,724,Find Pivot Index
+weekly-contest-58,725,Split Linked List in Parts
+weekly-contest-58,726,Number of Atoms
+weekly-contest-58,727,Minimum Window Subsequence
+weekly-contest-59,728,Self Dividing Numbers
+weekly-contest-59,729,My Calendar I
+weekly-contest-59,730,Count Different Palindromic Subsequences
+weekly-contest-59,731,My Calendar II
+weekly-contest-60,733,Flood Fill
+weekly-contest-60,734,Sentence Similarity
+weekly-contest-60,735,Asteroid Collision
+weekly-contest-60,736,Parse Lisp Expression
+weekly-contest-61,738,Monotone Increasing Digits
+weekly-contest-61,739,Daily Temperatures
+weekly-contest-61,740,Delete and Earn
+weekly-contest-61,741,Cherry Pickup
+weekly-contest-63,746,Min Cost Climbing Stairs
+weekly-contest-64,747,Largest Number At Least Twice of Others
+weekly-contest-63,748,Shortest Completing Word
+weekly-contest-63,749,Contain Virus
+weekly-contest-63,750,Number Of Corner Rectangles
+weekly-contest-64,751,IP to CIDR
+weekly-contest-64,752,Open the Lock
+weekly-contest-64,753,Cracking the Safe
+weekly-contest-65,754,Reach a Number
+weekly-contest-65,755,Pour Water
+weekly-contest-65,756,Pyramid Transition Matrix
+weekly-contest-65,757,Set Intersection Size At Least Two
+weekly-contest-66,758,Bold Words in String
+weekly-contest-66,759,Employee Free Time
+weekly-contest-66,760,Find Anagram Mappings
+weekly-contest-66,761,Special Binary String
+weekly-contest-67,762,Prime Number of Set Bits in Binary Representation
+weekly-contest-67,763,Partition Labels
+weekly-contest-67,764,Largest Plus Sign
+weekly-contest-67,765,Couples Holding Hands
+weekly-contest-68,766,Toeplitz Matrix
+weekly-contest-68,767,Reorganize String
+weekly-contest-68,768,Max Chunks To Make Sorted II
+weekly-contest-68,769,Max Chunks To Make Sorted
+weekly-contest-68,770,Basic Calculator IV
+weekly-contest-69,771,Jewels and Stones
+weekly-contest-69,773,Sliding Puzzle
+weekly-contest-69,774,Minimize Max Distance to Gas Station
+weekly-contest-69,775,Global and Local Inversions
+weekly-contest-70,776,Split BST
+weekly-contest-70,777,Swap Adjacent in LR String
+weekly-contest-70,778,Swim in Rising Water
+weekly-contest-70,779,K-th Symbol in Grammar
+weekly-contest-71,780,Reaching Points
+weekly-contest-71,781,Rabbits in Forest
+weekly-contest-71,782,Transform to Chessboard
+weekly-contest-71,783,Minimum Distance Between BST Nodes
+weekly-contest-72,784,Letter Case Permutation
+weekly-contest-72,785,Is Graph Bipartite?
+weekly-contest-72,786,K-th Smallest Prime Fraction
+weekly-contest-72,787,Cheapest Flights Within K Stops
+weekly-contest-73,788,Rotated Digits
+weekly-contest-73,789,Escape The Ghosts
+weekly-contest-73,790,Domino and Tromino Tiling
+weekly-contest-73,791,Custom Sort String
+weekly-contest-74,792,Number of Matching Subsequences
+weekly-contest-74,793,Preimage Size of Factorial Zeroes Function
+weekly-contest-74,794,Valid Tic-Tac-Toe State
+weekly-contest-74,795,Number of Subarrays with Bounded Maximum
+weekly-contest-75,796,Rotate String
+weekly-contest-75,797,All Paths From Source to Target
+weekly-contest-75,798,Smallest Rotation with Highest Score
+weekly-contest-75,799,Champagne Tower
+weekly-contest-76,800,Similar RGB Color
+weekly-contest-76,801,Minimum Swaps To Make Sequences Increasing
+weekly-contest-76,802,Find Eventual Safe States
+weekly-contest-76,803,Bricks Falling When Hit
+weekly-contest-77,804,Unique Morse Code Words
+weekly-contest-77,805,Split Array With Same Average
+weekly-contest-77,806,Number of Lines To Write String
+weekly-contest-77,807,Max Increase to Keep City Skyline
+weekly-contest-78,808,Soup Servings
+weekly-contest-78,809,Expressive Words
+weekly-contest-78,810,Chalkboard XOR Game
+weekly-contest-78,811,Subdomain Visit Count
+weekly-contest-79,812,Largest Triangle Area
+weekly-contest-79,813,Largest Sum of Averages
+weekly-contest-79,814,Binary Tree Pruning
+weekly-contest-79,815,Bus Routes
+weekly-contest-80,816,Ambiguous Coordinates
+weekly-contest-80,817,Linked List Components
+weekly-contest-80,818,Race Car
+weekly-contest-80,819,Most Common Word
+weekly-contest-81,820,Short Encoding of Words
+weekly-contest-81,821,Shortest Distance to a Character
+weekly-contest-81,822,Card Flipping Game
+weekly-contest-81,823,Binary Trees With Factors
+weekly-contest-82,824,Goat Latin
+weekly-contest-82,825,Friends Of Appropriate Ages
+weekly-contest-82,826,Most Profit Assigning Work
+weekly-contest-82,827,Making A Large Island
+weekly-contest-83,828,Count Unique Characters of All Substrings of a Given String
+weekly-contest-83,829,Consecutive Numbers Sum
+weekly-contest-83,830,Positions of Large Groups
+weekly-contest-83,831,Masking Personal Information
+weekly-contest-84,832,Flipping an Image
+weekly-contest-84,833,Find And Replace in String
+weekly-contest-84,834,Sum of Distances in Tree
+weekly-contest-84,835,Image Overlap
+weekly-contest-85,836,Rectangle Overlap
+weekly-contest-85,837,New 21 Game
+weekly-contest-85,838,Push Dominoes
+weekly-contest-85,839,Similar String Groups
+weekly-contest-86,840,Magic Squares In Grid
+weekly-contest-86,841,Keys and Rooms
+weekly-contest-86,842,Split Array into Fibonacci Sequence
+weekly-contest-86,843,Guess the Word
+weekly-contest-87,844,Backspace String Compare
+weekly-contest-87,845,Longest Mountain in Array
+weekly-contest-87,846,Hand of Straights
+weekly-contest-87,847,Shortest Path Visiting All Nodes
+weekly-contest-88,848,Shifting Letters
+weekly-contest-88,849,Maximize Distance to Closest Person
+weekly-contest-88,850,Rectangle Area II
+weekly-contest-88,851,Loud and Rich
+weekly-contest-89,852,Peak Index in a Mountain Array
+weekly-contest-89,853,Car Fleet
+weekly-contest-89,854,K-Similar Strings
+weekly-contest-89,855,Exam Room
+weekly-contest-90,856,Score of Parentheses
+weekly-contest-90,857,Minimum Cost to Hire K Workers
+weekly-contest-90,858,Mirror Reflection
+weekly-contest-90,859,Buddy Strings
+weekly-contest-91,860,Lemonade Change
+weekly-contest-91,861,Score After Flipping Matrix
+weekly-contest-91,862,Shortest Subarray with Sum at Least K
+weekly-contest-91,863,All Nodes Distance K in Binary Tree
+weekly-contest-92,864,Shortest Path to Get All Keys
+weekly-contest-92,865,Smallest Subtree with all the Deepest Nodes
+weekly-contest-92,866,Prime Palindrome
+weekly-contest-92,867,Transpose Matrix
+weekly-contest-93,868,Binary Gap
+weekly-contest-93,869,Reordered Power of 2
+weekly-contest-93,870,Advantage Shuffle
+weekly-contest-93,871,Minimum Number of Refueling Stops
+weekly-contest-94,872,Leaf-Similar Trees
+weekly-contest-94,873,Length of Longest Fibonacci Subsequence
+weekly-contest-94,874,Walking Robot Simulation
+weekly-contest-94,875,Koko Eating Bananas
+weekly-contest-95,876,Middle of the Linked List
+weekly-contest-95,877,Stone Game
+weekly-contest-95,878,Nth Magical Number
+weekly-contest-95,879,Profitable Schemes
+weekly-contest-96,880,Decoded String at Index
+weekly-contest-96,881,Boats to Save People
+weekly-contest-96,882,Reachable Nodes In Subdivided Graph
+weekly-contest-96,883,Projection Area of 3D Shapes
+weekly-contest-97,884,Uncommon Words from Two Sentences
+weekly-contest-97,885,Spiral Matrix III
+weekly-contest-97,886,Possible Bipartition
+weekly-contest-97,887,Super Egg Drop
+weekly-contest-98,888,Fair Candy Swap
+weekly-contest-98,889,Construct Binary Tree from Preorder and Postorder Traversal
+weekly-contest-98,890,Find and Replace Pattern
+weekly-contest-98,891,Sum of Subsequence Widths
+weekly-contest-99,892,Surface Area of 3D Shapes
+weekly-contest-99,893,Groups of Special-Equivalent Strings
+weekly-contest-99,894,All Possible Full Binary Trees
+weekly-contest-99,895,Maximum Frequency Stack
+weekly-contest-100,896,Monotonic Array
+weekly-contest-100,897,Increasing Order Search Tree
+weekly-contest-100,898,Bitwise ORs of Subarrays
+weekly-contest-100,899,Orderly Queue
+weekly-contest-101,900,RLE Iterator
+weekly-contest-101,901,Online Stock Span
+weekly-contest-101,902,Numbers At Most N Given Digit Set
+weekly-contest-101,903,Valid Permutations for DI Sequence
+weekly-contest-102,904,Fruit Into Baskets
+weekly-contest-102,905,Sort Array By Parity
+weekly-contest-102,906,Super Palindromes
+weekly-contest-102,907,Sum of Subarray Minimums
+weekly-contest-103,908,Smallest Range I
+weekly-contest-103,909,Snakes and Ladders
+weekly-contest-103,910,Smallest Range II
+weekly-contest-103,911,Online Election
+weekly-contest-104,913,Cat and Mouse
+weekly-contest-104,914,X of a Kind in a Deck of Cards
+weekly-contest-104,915,Partition Array into Disjoint Intervals
+weekly-contest-104,916,Word Subsets
+weekly-contest-105,917,Reverse Only Letters
+weekly-contest-105,918,Maximum Sum Circular Subarray
+weekly-contest-105,919,Complete Binary Tree Inserter
+weekly-contest-105,920,Number of Music Playlists
+weekly-contest-106,921,Minimum Add to Make Parentheses Valid
+weekly-contest-106,922,Sort Array By Parity II
+weekly-contest-106,923,3Sum With Multiplicity
+weekly-contest-106,924,Minimize Malware Spread
+weekly-contest-107,925,Long Pressed Name
+weekly-contest-107,926,Flip String to Monotone Increasing
+weekly-contest-107,927,Three Equal Parts
+weekly-contest-107,928,Minimize Malware Spread II
+weekly-contest-108,929,Unique Email Addresses
+weekly-contest-108,930,Binary Subarrays With Sum
+weekly-contest-108,931,Minimum Falling Path Sum
+weekly-contest-108,932,Beautiful Array
+weekly-contest-109,933,Number of Recent Calls
+weekly-contest-109,934,Shortest Bridge
+weekly-contest-109,935,Knight Dialer
+weekly-contest-109,936,Stamping The Sequence
+weekly-contest-110,937,Reorder Data in Log Files
+weekly-contest-110,938,Range Sum of BST
+weekly-contest-110,939,Minimum Area Rectangle
+weekly-contest-110,940,Distinct Subsequences II
+weekly-contest-111,941,Valid Mountain Array
+weekly-contest-111,942,DI String Match
+weekly-contest-111,943,Find the Shortest Superstring
+weekly-contest-111,944,Delete Columns to Make Sorted
+weekly-contest-112,945,Minimum Increment to Make Array Unique
+weekly-contest-112,946,Validate Stack Sequences
+weekly-contest-112,947,Most Stones Removed with Same Row or Column
+weekly-contest-112,948,Bag of Tokens
+weekly-contest-113,949,Largest Time for Given Digits
+weekly-contest-113,950,Reveal Cards In Increasing Order
+weekly-contest-113,951,Flip Equivalent Binary Trees
+weekly-contest-113,952,Largest Component Size by Common Factor
+weekly-contest-114,953,Verifying an Alien Dictionary
+weekly-contest-114,954,Array of Doubled Pairs
+weekly-contest-114,955,Delete Columns to Make Sorted II
+weekly-contest-114,956,Tallest Billboard
+weekly-contest-115,957,Prison Cells After N Days
+weekly-contest-115,958,Check Completeness of a Binary Tree
+weekly-contest-115,959,Regions Cut By Slashes
+weekly-contest-115,960,Delete Columns to Make Sorted III
+weekly-contest-116,961,N-Repeated Element in Size 2N Array
+weekly-contest-116,962,Maximum Width Ramp
+weekly-contest-116,963,Minimum Area Rectangle II
+weekly-contest-116,964,Least Operators to Express Number
+weekly-contest-117,965,Univalued Binary Tree
+weekly-contest-117,966,Vowel Spellchecker
+weekly-contest-117,967,Numbers With Same Consecutive Differences
+weekly-contest-117,968,Binary Tree Cameras
+weekly-contest-118,969,Pancake Sorting
+weekly-contest-118,970,Powerful Integers
+weekly-contest-118,971,Flip Binary Tree To Match Preorder Traversal
+weekly-contest-118,972,Equal Rational Numbers
+weekly-contest-119,973,K Closest Points to Origin
+weekly-contest-119,974,Subarray Sums Divisible by K
+weekly-contest-119,975,Odd Even Jump
+weekly-contest-119,976,Largest Perimeter Triangle
+weekly-contest-120,977,Squares of a Sorted Array
+weekly-contest-120,978,Longest Turbulent Subarray
+weekly-contest-120,979,Distribute Coins in Binary Tree
+weekly-contest-120,980,Unique Paths III
+weekly-contest-121,981,Time Based Key-Value Store
+weekly-contest-121,982,Triples with Bitwise AND Equal To Zero
+weekly-contest-121,983,Minimum Cost For Tickets
+weekly-contest-121,984,String Without AAA or BBB
+weekly-contest-122,985,Sum of Even Numbers After Queries
+weekly-contest-122,986,Interval List Intersections
+weekly-contest-122,987,Vertical Order Traversal of a Binary Tree
+weekly-contest-122,988,Smallest String Starting From Leaf
+weekly-contest-123,989,Add to Array-Form of Integer
+weekly-contest-123,990,Satisfiability of Equality Equations
+weekly-contest-123,991,Broken Calculator
+weekly-contest-123,992,Subarrays with K Different Integers
+weekly-contest-124,993,Cousins in Binary Tree
+weekly-contest-124,994,Rotting Oranges
+weekly-contest-124,995,Minimum Number of K Consecutive Bit Flips
+weekly-contest-124,996,Number of Squareful Arrays
+weekly-contest-125,997,Find the Town Judge
+weekly-contest-125,998,Maximum Binary Tree II
+weekly-contest-125,999,Available Captures for Rook
+weekly-contest-126,1000,Minimum Cost to Merge Stones
+weekly-contest-125,1001,Grid Illumination
+weekly-contest-126,1002,Find Common Characters
+weekly-contest-126,1003,Check If Word Is Valid After Substitutions
+weekly-contest-126,1004,Max Consecutive Ones III
+weekly-contest-127,1005,Maximize Sum Of Array After K Negations
+weekly-contest-127,1006,Clumsy Factorial
+weekly-contest-127,1007,Minimum Domino Rotations For Equal Row
+weekly-contest-127,1008,Construct Binary Search Tree from Preorder Traversal
+weekly-contest-128,1009,Complement of Base 10 Integer
+weekly-contest-128,1010,Pairs of Songs With Total Durations Divisible by 60
+weekly-contest-128,1011,Capacity To Ship Packages Within D Days
+weekly-contest-128,1012,Numbers With Repeated Digits
+weekly-contest-129,1013,Partition Array Into Three Parts With Equal Sum
+weekly-contest-129,1014,Best Sightseeing Pair
+weekly-contest-129,1015,Smallest Integer Divisible by K
+weekly-contest-129,1016,Binary String With Substrings Representing 1 To N
+weekly-contest-130,1017,Convert to Base -2
+weekly-contest-130,1018,Binary Prefix Divisible By 5
+weekly-contest-130,1019,Next Greater Node In Linked List
+weekly-contest-130,1020,Number of Enclaves
+weekly-contest-131,1021,Remove Outermost Parentheses
+weekly-contest-131,1022,Sum of Root To Leaf Binary Numbers
+weekly-contest-131,1023,Camelcase Matching
+weekly-contest-131,1024,Video Stitching
+weekly-contest-132,1025,Divisor Game
+weekly-contest-132,1026,Maximum Difference Between Node and Ancestor
+weekly-contest-132,1027,Longest Arithmetic Subsequence
+weekly-contest-132,1028,Recover a Tree From Preorder Traversal
+weekly-contest-133,1029,Two City Scheduling
+weekly-contest-133,1030,Matrix Cells in Distance Order
+weekly-contest-133,1031,Maximum Sum of Two Non-Overlapping Subarrays
+weekly-contest-133,1032,Stream of Characters
+weekly-contest-134,1033,Moving Stones Until Consecutive
+weekly-contest-134,1034,Coloring A Border
+weekly-contest-134,1035,Uncrossed Lines
+weekly-contest-134,1036,Escape a Large Maze
+weekly-contest-135,1037,Valid Boomerang
+weekly-contest-135,1038,Binary Search Tree to Greater Sum Tree
+weekly-contest-135,1039,Minimum Score Triangulation of Polygon
+weekly-contest-135,1040,Moving Stones Until Consecutive II
+weekly-contest-136,1041,Robot Bounded In Circle
+weekly-contest-136,1042,Flower Planting With No Adjacent
+weekly-contest-136,1043,Partition Array for Maximum Sum
+weekly-contest-136,1044,Longest Duplicate Substring
+weekly-contest-137,1046,Last Stone Weight
+weekly-contest-137,1047,Remove All Adjacent Duplicates In String
+weekly-contest-137,1048,Longest String Chain
+weekly-contest-137,1049,Last Stone Weight II
+weekly-contest-138,1051,Height Checker
+weekly-contest-138,1052,Grumpy Bookstore Owner
+weekly-contest-138,1053,Previous Permutation With One Swap
+weekly-contest-138,1054,Distant Barcodes
+biweekly-contest-1,1064,Fixed Point
+biweekly-contest-1,1065,Index Pairs of a String
+biweekly-contest-1,1066,Campus Bikes II
+biweekly-contest-1,1067,Digit Count in Range
+weekly-contest-139,1071,Greatest Common Divisor of Strings
+weekly-contest-139,1072,Flip Columns For Maximum Number of Equal Rows
+weekly-contest-139,1073,Adding Two Negabinary Numbers
+weekly-contest-139,1074,Number of Submatrices That Sum to Target
+weekly-contest-140,1078,Occurrences After Bigram
+weekly-contest-140,1079,Letter Tile Possibilities
+weekly-contest-140,1080,Insufficient Nodes in Root to Leaf Paths
+weekly-contest-140,1081,Smallest Subsequence of Distinct Characters
+biweekly-contest-2,1085,Sum of Digits in the Minimum Number
+biweekly-contest-2,1086,High Five
+biweekly-contest-2,1087,Brace Expansion
+biweekly-contest-2,1088,Confusing Number II
+weekly-contest-141,1089,Duplicate Zeros
+weekly-contest-141,1090,Largest Values From Labels
+weekly-contest-141,1091,Shortest Path in Binary Matrix
+weekly-contest-141,1092,Shortest Common Supersequence 
+weekly-contest-142,1093,Statistics from a Large Sample
+weekly-contest-142,1094,Car Pooling
+weekly-contest-142,1095,Find in Mountain Array
+weekly-contest-142,1096,Brace Expansion II
+biweekly-contest-3,1099,Two Sum Less Than K
+biweekly-contest-3,1100,Find K-Length Substrings With No Repeated Characters
+biweekly-contest-3,1101,The Earliest Moment When Everyone Become Friends
+biweekly-contest-3,1102,Path With Maximum Minimum Value
+weekly-contest-143,1103,Distribute Candies to People
+weekly-contest-143,1104,Path In Zigzag Labelled Binary Tree
+weekly-contest-143,1105,Filling Bookcase Shelves
+weekly-contest-143,1106,Parsing A Boolean Expression
+weekly-contest-144,1108,Defanging an IP Address
+weekly-contest-144,1109,Corporate Flight Bookings
+weekly-contest-144,1110,Delete Nodes And Return Forest
+weekly-contest-144,1111,Maximum Nesting Depth of Two Valid Parentheses Strings
+biweekly-contest-4,1118,Number of Days in a Month
+biweekly-contest-4,1119,Remove Vowels from a String
+biweekly-contest-4,1120,Maximum Average Subtree
+biweekly-contest-4,1121,Divide Array Into Increasing Sequences
+weekly-contest-145,1122,Relative Sort Array
+weekly-contest-145,1123,Lowest Common Ancestor of Deepest Leaves
+weekly-contest-145,1124,Longest Well-Performing Interval
+weekly-contest-145,1125,Smallest Sufficient Team
+weekly-contest-146,1128,Number of Equivalent Domino Pairs
+weekly-contest-146,1129,Shortest Path with Alternating Colors
+weekly-contest-146,1130,Minimum Cost Tree From Leaf Values
+weekly-contest-146,1131,Maximum of Absolute Value Expression
+biweekly-contest-5,1133,Largest Unique Number
+biweekly-contest-5,1134,Armstrong Number
+biweekly-contest-5,1135,Connecting Cities With Minimum Cost
+biweekly-contest-5,1136,Parallel Courses
+weekly-contest-147,1137,N-th Tribonacci Number
+weekly-contest-147,1138,Alphabet Board Path
+weekly-contest-147,1139,Largest 1-Bordered Square
+weekly-contest-147,1140,Stone Game II
+weekly-contest-148,1144,Decrease Elements To Make Array Zigzag
+weekly-contest-148,1145,Binary Tree Coloring Game
+weekly-contest-148,1146,Snapshot Array
+weekly-contest-148,1147,Longest Chunked Palindrome Decomposition
+biweekly-contest-6,1150,Check If a Number Is Majority Element in a Sorted Array
+biweekly-contest-6,1151,Minimum Swaps to Group All 1's Together
+biweekly-contest-6,1152,Analyze User Website Visit Pattern
+biweekly-contest-6,1153,String Transforms Into Another String
+weekly-contest-149,1154,Day of the Year
+weekly-contest-149,1155,Number of Dice Rolls With Target Sum
+weekly-contest-149,1156,Swap For Longest Repeated Character Substring
+weekly-contest-149,1157,Online Majority Element In Subarray
+weekly-contest-150,1160,Find Words That Can Be Formed by Characters
+weekly-contest-150,1161,Maximum Level Sum of a Binary Tree
+weekly-contest-150,1162,As Far from Land as Possible
+weekly-contest-150,1163,Last Substring in Lexicographical Order
+biweekly-contest-7,1165,Single-Row Keyboard
+biweekly-contest-7,1166,Design File System
+biweekly-contest-7,1167,Minimum Cost to Connect Sticks
+biweekly-contest-7,1168,Optimize Water Distribution in a Village
+weekly-contest-151,1169,Invalid Transactions
+weekly-contest-151,1170,Compare Strings by Frequency of the Smallest Character
+weekly-contest-151,1171,Remove Zero Sum Consecutive Nodes from Linked List
+weekly-contest-151,1172,Dinner Plate Stacks
+weekly-contest-152,1175,Prime Arrangements
+weekly-contest-152,1176,Diet Plan Performance
+weekly-contest-152,1177,Can Make Palindrome from Substring
+weekly-contest-152,1178,Number of Valid Words for Each Puzzle
+biweekly-contest-8,1180,Count Substrings with Only One Distinct Letter
+biweekly-contest-8,1181,Before and After Puzzle
+biweekly-contest-8,1182,Shortest Distance to Target Color
+biweekly-contest-8,1183,Maximum Number of Ones
+weekly-contest-153,1184,Distance Between Bus Stops
+weekly-contest-153,1185,Day of the Week
+weekly-contest-153,1186,Maximum Subarray Sum with One Deletion
+weekly-contest-153,1187,Make Array Strictly Increasing
+weekly-contest-154,1189,Maximum Number of Balloons
+weekly-contest-154,1190,Reverse Substrings Between Each Pair of Parentheses
+weekly-contest-154,1191,K-Concatenation Maximum Sum
+weekly-contest-154,1192,Critical Connections in a Network
+biweekly-contest-9,1196,How Many Apples Can You Put into the Basket
+biweekly-contest-9,1197,Minimum Knight Moves
+biweekly-contest-9,1198,Find Smallest Common Element in All Rows
+biweekly-contest-9,1199,Minimum Time to Build Blocks
+weekly-contest-155,1200,Minimum Absolute Difference
+weekly-contest-155,1201,Ugly Number III
+weekly-contest-155,1202,Smallest String With Swaps
+weekly-contest-155,1203,Sort Items by Groups Respecting Dependencies
+weekly-contest-156,1207,Unique Number of Occurrences
+weekly-contest-156,1208,Get Equal Substrings Within Budget
+weekly-contest-156,1209,Remove All Adjacent Duplicates in String II
+weekly-contest-156,1210,Minimum Moves to Reach Target with Rotations
+biweekly-contest-10,1213,Intersection of Three Sorted Arrays
+biweekly-contest-10,1214,Two Sum BSTs
+biweekly-contest-10,1215,Stepping Numbers
+biweekly-contest-10,1216,Valid Palindrome III
+weekly-contest-157,1217,Minimum Cost to Move Chips to The Same Position
+weekly-contest-157,1218,Longest Arithmetic Subsequence of Given Difference
+weekly-contest-157,1219,Path with Maximum Gold
+weekly-contest-157,1220,Count Vowels Permutation
+weekly-contest-158,1221,Split a String in Balanced Strings
+weekly-contest-158,1222,Queens That Can Attack the King
+weekly-contest-158,1223,Dice Roll Simulation
+weekly-contest-158,1224,Maximum Equal Frequency
+biweekly-contest-11,1228,Missing Number In Arithmetic Progression
+biweekly-contest-11,1229,Meeting Scheduler
+biweekly-contest-11,1230,Toss Strange Coins
+biweekly-contest-11,1231,Divide Chocolate
+weekly-contest-159,1232,Check If It Is a Straight Line
+weekly-contest-159,1233,Remove Sub-Folders from the Filesystem
+weekly-contest-159,1234,Replace the Substring for Balanced String
+weekly-contest-159,1235,Maximum Profit in Job Scheduling
+weekly-contest-160,1237,Find Positive Integer Solution for a Given Equation
+weekly-contest-160,1238,Circular Permutation in Binary Representation
+weekly-contest-160,1239,Maximum Length of a Concatenated String with Unique Characters
+weekly-contest-160,1240,Tiling a Rectangle with the Fewest Squares
+biweekly-contest-12,1243,Array Transformation
+biweekly-contest-12,1244,Design A Leaderboard
+biweekly-contest-12,1245,Tree Diameter
+biweekly-contest-12,1246,Palindrome Removal
+weekly-contest-161,1247,Minimum Swaps to Make Strings Equal
+weekly-contest-161,1248,Count Number of Nice Subarrays
+weekly-contest-161,1249,Minimum Remove to Make Valid Parentheses
+weekly-contest-161,1250,Check If It Is a Good Array
+weekly-contest-162,1252,Cells with Odd Values in a Matrix
+weekly-contest-162,1253,Reconstruct a 2-Row Binary Matrix
+weekly-contest-162,1254,Number of Closed Islands
+weekly-contest-162,1255,Maximum Score Words Formed by Letters
+biweekly-contest-13,1256,Encode Number
+biweekly-contest-13,1257,Smallest Common Region
+biweekly-contest-13,1258,Synonymous Sentences
+biweekly-contest-13,1259,Handshakes That Don't Cross
+weekly-contest-163,1260,Shift 2D Grid
+weekly-contest-163,1261,Find Elements in a Contaminated Binary Tree
+weekly-contest-163,1262,Greatest Sum Divisible by Three
+weekly-contest-163,1263,Minimum Moves to Move a Box to Their Target Location
+weekly-contest-164,1266,Minimum Time Visiting All Points
+weekly-contest-164,1267,Count Servers that Communicate
+weekly-contest-164,1268,Search Suggestions System
+weekly-contest-164,1269,Number of Ways to Stay in the Same Place After Some Steps
+biweekly-contest-14,1271,Hexspeak
+biweekly-contest-14,1272,Remove Interval
+biweekly-contest-14,1273,Delete Tree Nodes
+biweekly-contest-14,1274,Number of Ships in a Rectangle
+weekly-contest-165,1275,Find Winner on a Tic Tac Toe Game
+weekly-contest-165,1276,Number of Burgers with No Waste of Ingredients
+weekly-contest-165,1277,Count Square Submatrices with All Ones
+weekly-contest-165,1278,Palindrome Partitioning III
+weekly-contest-166,1281,Subtract the Product and Sum of Digits of an Integer
+weekly-contest-166,1282,Group the People Given the Group Size They Belong To
+weekly-contest-166,1283,Find the Smallest Divisor Given a Threshold
+weekly-contest-166,1284,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+biweekly-contest-15,1286,Iterator for Combination
+biweekly-contest-15,1287,Element Appearing More Than 25% In Sorted Array
+biweekly-contest-15,1288,Remove Covered Intervals
+biweekly-contest-15,1289,Minimum Falling Path Sum II
+weekly-contest-167,1290,Convert Binary Number in a Linked List to Integer
+weekly-contest-167,1291,Sequential Digits
+weekly-contest-167,1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+weekly-contest-167,1293,Shortest Path in a Grid with Obstacles Elimination
+weekly-contest-168,1295,Find Numbers with Even Number of Digits
+weekly-contest-168,1296,Divide Array in Sets of K Consecutive Numbers
+weekly-contest-168,1297,Maximum Number of Occurrences of a Substring
+weekly-contest-168,1298,Maximum Candies You Can Get from Boxes
+biweekly-contest-16,1299,Replace Elements with Greatest Element on Right Side
+biweekly-contest-16,1300,Sum of Mutated Array Closest to Target
+biweekly-contest-16,1301,Number of Paths with Max Score
+biweekly-contest-16,1302,Deepest Leaves Sum
+weekly-contest-169,1304,Find N Unique Integers Sum up to Zero
+weekly-contest-169,1305,All Elements in Two Binary Search Trees
+weekly-contest-169,1306,Jump Game III
+weekly-contest-169,1307,Verbal Arithmetic Puzzle
+weekly-contest-170,1309,Decrypt String from Alphabet to Integer Mapping
+weekly-contest-170,1310,XOR Queries of a Subarray
+weekly-contest-170,1311,Get Watched Videos by Your Friends
+weekly-contest-170,1312,Minimum Insertion Steps to Make a String Palindrome
+biweekly-contest-17,1313,Decompress Run-Length Encoded List
+biweekly-contest-17,1314,Matrix Block Sum
+biweekly-contest-17,1315,Sum of Nodes with Even-Valued Grandparent
+biweekly-contest-17,1316,Distinct Echo Substrings
+weekly-contest-171,1317,Convert Integer to the Sum of Two No-Zero Integers
+weekly-contest-171,1318,Minimum Flips to Make a OR b Equal to c
+weekly-contest-171,1319,Number of Operations to Make Network Connected
+weekly-contest-171,1320,Minimum Distance to Type a Word Using Two Fingers
+weekly-contest-172,1323,Maximum 69 Number
+weekly-contest-172,1324,Print Words Vertically
+weekly-contest-172,1325,Delete Leaves With a Given Value
+weekly-contest-172,1326,Minimum Number of Taps to Open to Water a Garden
+biweekly-contest-18,1328,Break a Palindrome
+biweekly-contest-18,1329,Sort the Matrix Diagonally
+biweekly-contest-18,1330,Reverse Subarray To Maximize Array Value
+biweekly-contest-18,1331,Rank Transform of an Array
+weekly-contest-173,1332,Remove Palindromic Subsequences
+weekly-contest-173,1333,"Filter Restaurants by Vegan-Friendly, Price and Distance"
+weekly-contest-173,1334,Find the City With the Smallest Number of Neighbors at a Threshold Distance
+weekly-contest-173,1335,Minimum Difficulty of a Job Schedule
+weekly-contest-174,1337,The K Weakest Rows in a Matrix
+weekly-contest-174,1338,Reduce Array Size to The Half
+weekly-contest-174,1339,Maximum Product of Splitted Binary Tree
+weekly-contest-174,1340,Jump Game V
+biweekly-contest-19,1342,Number of Steps to Reduce a Number to Zero
+biweekly-contest-19,1343,Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+biweekly-contest-19,1344,Angle Between Hands of a Clock
+biweekly-contest-19,1345,Jump Game IV
+weekly-contest-175,1346,Check If N and Its Double Exist
+weekly-contest-175,1347,Minimum Number of Steps to Make Two Strings Anagram
+weekly-contest-175,1348,Tweet Counts Per Frequency
+weekly-contest-175,1349,Maximum Students Taking Exam
+weekly-contest-176,1351,Count Negative Numbers in a Sorted Matrix
+weekly-contest-176,1352,Product of the Last K Numbers
+weekly-contest-176,1353,Maximum Number of Events That Can Be Attended
+weekly-contest-176,1354,Construct Target Array With Multiple Sums
+biweekly-contest-20,1356,Sort Integers by The Number of 1 Bits
+biweekly-contest-20,1357,Apply Discount Every n Orders
+biweekly-contest-20,1358,Number of Substrings Containing All Three Characters
+biweekly-contest-20,1359,Count All Valid Pickup and Delivery Options
+weekly-contest-177,1360,Number of Days Between Two Dates
+weekly-contest-177,1361,Validate Binary Tree Nodes
+weekly-contest-177,1362,Closest Divisors
+weekly-contest-177,1363,Largest Multiple of Three
+weekly-contest-178,1365,How Many Numbers Are Smaller Than the Current Number
+weekly-contest-178,1366,Rank Teams by Votes
+weekly-contest-178,1367,Linked List in Binary Tree
+weekly-contest-178,1368,Minimum Cost to Make at Least One Valid Path in a Grid
+biweekly-contest-21,1370,Increasing Decreasing String
+biweekly-contest-21,1371,Find the Longest Substring Containing Vowels in Even Counts
+biweekly-contest-21,1372,Longest ZigZag Path in a Binary Tree
+biweekly-contest-21,1373,Maximum Sum BST in Binary Tree
+weekly-contest-179,1374,Generate a String With Characters That Have Odd Counts
+weekly-contest-179,1375,Number of Times Binary String Is Prefix-Aligned
+weekly-contest-179,1376,Time Needed to Inform All Employees
+weekly-contest-179,1377,Frog Position After T Seconds
+weekly-contest-180,1380,Lucky Numbers in a Matrix
+weekly-contest-180,1381,Design a Stack With Increment Operation
+weekly-contest-180,1382,Balance a Binary Search Tree
+weekly-contest-180,1383,Maximum Performance of a Team
+biweekly-contest-22,1385,Find the Distance Value Between Two Arrays
+biweekly-contest-22,1386,Cinema Seat Allocation
+biweekly-contest-22,1387,Sort Integers by The Power Value
+biweekly-contest-22,1388,Pizza With 3n Slices
+weekly-contest-181,1389,Create Target Array in the Given Order
+weekly-contest-181,1390,Four Divisors
+weekly-contest-181,1391,Check if There is a Valid Path in a Grid
+weekly-contest-181,1392,Longest Happy Prefix
+weekly-contest-182,1394,Find Lucky Integer in an Array
+weekly-contest-182,1395,Count Number of Teams
+weekly-contest-182,1396,Design Underground System
+weekly-contest-182,1397,Find All Good Strings
+biweekly-contest-23,1399,Count Largest Group
+biweekly-contest-23,1400,Construct K Palindrome Strings
+biweekly-contest-23,1401,Circle and Rectangle Overlapping
+biweekly-contest-23,1402,Reducing Dishes
+weekly-contest-183,1403,Minimum Subsequence in Non-Increasing Order
+weekly-contest-183,1404,Number of Steps to Reduce a Number in Binary Representation to One
+weekly-contest-183,1405,Longest Happy String
+weekly-contest-183,1406,Stone Game III
+weekly-contest-184,1408,String Matching in an Array
+weekly-contest-184,1409,Queries on a Permutation With Key
+weekly-contest-184,1410,HTML Entity Parser
+weekly-contest-184,1411,Number of Ways to Paint N × 3 Grid
+biweekly-contest-24,1413,Minimum Value to Get Positive Step by Step Sum
+biweekly-contest-24,1414,Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+biweekly-contest-24,1415,The k-th Lexicographical String of All Happy Strings of Length n
+biweekly-contest-24,1416,Restore The Array
+weekly-contest-185,1417,Reformat The String
+weekly-contest-185,1418,Display Table of Food Orders in a Restaurant
+weekly-contest-185,1419,Minimum Number of Frogs Croaking
+weekly-contest-185,1420,Build Array Where You Can Find The Maximum Exactly K Comparisons
+weekly-contest-186,1422,Maximum Score After Splitting a String
+weekly-contest-186,1423,Maximum Points You Can Obtain from Cards
+weekly-contest-186,1424,Diagonal Traverse II
+weekly-contest-186,1425,Constrained Subsequence Sum
+biweekly-contest-25,1431,Kids With the Greatest Number of Candies
+biweekly-contest-25,1432,Max Difference You Can Get From Changing an Integer
+biweekly-contest-25,1433,Check If a String Can Break Another String
+biweekly-contest-25,1434,Number of Ways to Wear Different Hats to Each Other
+weekly-contest-187,1436,Destination City
+weekly-contest-187,1437,Check If All 1's Are at Least Length K Places Away
+weekly-contest-187,1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+weekly-contest-187,1439,Find the Kth Smallest Sum of a Matrix With Sorted Rows
+weekly-contest-188,1441,Build an Array With Stack Operations
+weekly-contest-188,1442,Count Triplets That Can Form Two Arrays of Equal XOR
+weekly-contest-188,1443,Minimum Time to Collect All Apples in a Tree
+weekly-contest-188,1444,Number of Ways of Cutting a Pizza
+biweekly-contest-26,1446,Consecutive Characters
+biweekly-contest-26,1447,Simplified Fractions
+biweekly-contest-26,1448,Count Good Nodes in Binary Tree
+biweekly-contest-26,1449,Form Largest Integer With Digits That Add up to Target
+weekly-contest-189,1450,Number of Students Doing Homework at a Given Time
+weekly-contest-189,1451,Rearrange Words in a Sentence
+weekly-contest-189,1452,People Whose List of Favorite Companies Is Not a Subset of Another List
+weekly-contest-189,1453,Maximum Number of Darts Inside of a Circular Dartboard
+weekly-contest-190,1455,Check If a Word Occurs As a Prefix of Any Word in a Sentence
+weekly-contest-190,1456,Maximum Number of Vowels in a Substring of Given Length
+weekly-contest-190,1457,Pseudo-Palindromic Paths in a Binary Tree
+weekly-contest-190,1458,Max Dot Product of Two Subsequences
+biweekly-contest-27,1460,Make Two Arrays Equal by Reversing Subarrays
+biweekly-contest-27,1461,Check If a String Contains All Binary Codes of Size K
+biweekly-contest-27,1462,Course Schedule IV
+biweekly-contest-27,1463,Cherry Pickup II
+weekly-contest-191,1464,Maximum Product of Two Elements in an Array
+weekly-contest-191,1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+weekly-contest-191,1466,Reorder Routes to Make All Paths Lead to the City Zero
+weekly-contest-191,1467,Probability of a Two Boxes Having The Same Number of Distinct Balls
+weekly-contest-192,1470,Shuffle the Array
+weekly-contest-192,1471,The k Strongest Values in an Array
+weekly-contest-192,1472,Design Browser History
+weekly-contest-192,1473,Paint House III
+biweekly-contest-28,1475,Final Prices With a Special Discount in a Shop
+biweekly-contest-28,1476,Subrectangle Queries
+biweekly-contest-28,1477,Find Two Non-overlapping Sub-arrays Each With Target Sum
+biweekly-contest-28,1478,Allocate Mailboxes
+weekly-contest-193,1480,Running Sum of 1d Array
+weekly-contest-193,1481,Least Number of Unique Integers after K Removals
+weekly-contest-193,1482,Minimum Number of Days to Make m Bouquets
+weekly-contest-193,1483,Kth Ancestor of a Tree Node
+weekly-contest-194,1486,XOR Operation in an Array
+weekly-contest-194,1487,Making File Names Unique
+weekly-contest-194,1488,Avoid Flood in The City
+weekly-contest-194,1489,Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+biweekly-contest-29,1491,Average Salary Excluding the Minimum and Maximum Salary
+biweekly-contest-29,1492,The kth Factor of n
+biweekly-contest-29,1493,Longest Subarray of 1's After Deleting One Element
+biweekly-contest-29,1494,Parallel Courses II
+weekly-contest-195,1496,Path Crossing
+weekly-contest-195,1497,Check If Array Pairs Are Divisible by k
+weekly-contest-195,1498,Number of Subsequences That Satisfy the Given Sum Condition
+weekly-contest-195,1499,Max Value of Equation
+weekly-contest-196,1502,Can Make Arithmetic Progression From Sequence
+weekly-contest-196,1503,Last Moment Before All Ants Fall Out of a Plank
+weekly-contest-196,1504,Count Submatrices With All Ones
+weekly-contest-196,1505,Minimum Possible Integer After at Most K Adjacent Swaps On Digits
+biweekly-contest-30,1507,Reformat Date
+biweekly-contest-30,1508,Range Sum of Sorted Subarray Sums
+biweekly-contest-30,1509,Minimum Difference Between Largest and Smallest Value in Three Moves
+biweekly-contest-30,1510,Stone Game IV
+weekly-contest-197,1512,Number of Good Pairs
+weekly-contest-197,1513,Number of Substrings With Only 1s
+weekly-contest-197,1514,Path with Maximum Probability
+weekly-contest-197,1515,Best Position for a Service Centre
+weekly-contest-198,1518,Water Bottles
+weekly-contest-198,1519,Number of Nodes in the Sub-Tree With the Same Label
+weekly-contest-198,1520,Maximum Number of Non-Overlapping Substrings
+weekly-contest-198,1521,Find a Value of a Mysterious Function Closest to Target
+biweekly-contest-31,1523,Count Odd Numbers in an Interval Range
+biweekly-contest-31,1524,Number of Sub-arrays With Odd Sum
+biweekly-contest-31,1525,Number of Good Ways to Split a String
+biweekly-contest-31,1526,Minimum Number of Increments on Subarrays to Form a Target Array
+weekly-contest-199,1528,Shuffle String
+weekly-contest-199,1529,Minimum Suffix Flips
+weekly-contest-199,1530,Number of Good Leaf Nodes Pairs
+weekly-contest-199,1531,String Compression II
+weekly-contest-200,1534,Count Good Triplets
+weekly-contest-200,1535,Find the Winner of an Array Game
+weekly-contest-200,1536,Minimum Swaps to Arrange a Binary Grid
+weekly-contest-200,1537,Get the Maximum Score
+biweekly-contest-32,1539,Kth Missing Positive Number
+biweekly-contest-32,1540,Can Convert String in K Moves
+biweekly-contest-32,1541,Minimum Insertions to Balance a Parentheses String
+biweekly-contest-32,1542,Find Longest Awesome Substring
+weekly-contest-201,1544,Make The String Great
+weekly-contest-201,1545,Find Kth Bit in Nth Binary String
+weekly-contest-201,1546,Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
+weekly-contest-201,1547,Minimum Cost to Cut a Stick
+weekly-contest-202,1550,Three Consecutive Odds
+weekly-contest-202,1551,Minimum Operations to Make Array Equal
+weekly-contest-202,1552,Magnetic Force Between Two Balls
+weekly-contest-202,1553,Minimum Number of Days to Eat N Oranges
+biweekly-contest-33,1556,Thousand Separator
+biweekly-contest-33,1557,Minimum Number of Vertices to Reach All Nodes
+biweekly-contest-33,1558,Minimum Numbers of Function Calls to Make Target Array
+biweekly-contest-33,1559,Detect Cycles in 2D Grid
+weekly-contest-203,1560,Most Visited Sector in  a Circular Track
+weekly-contest-203,1561,Maximum Number of Coins You Can Get
+weekly-contest-203,1562,Find Latest Group of Size M
+weekly-contest-203,1563,Stone Game V
+weekly-contest-204,1566,Detect Pattern of Length M Repeated K or More Times
+weekly-contest-204,1567,Maximum Length of Subarray With Positive Product
+weekly-contest-204,1568,Minimum Number of Days to Disconnect Island
+weekly-contest-204,1569,Number of Ways to Reorder Array to Get Same BST
+biweekly-contest-34,1572,Matrix Diagonal Sum
+biweekly-contest-34,1573,Number of Ways to Split a String
+biweekly-contest-34,1574,Shortest Subarray to be Removed to Make Array Sorted
+biweekly-contest-34,1575,Count All Possible Routes
+weekly-contest-205,1576,Replace All ?'s to Avoid Consecutive Repeating Characters
+weekly-contest-205,1577,Number of Ways Where Square of Number Is Equal to Product of Two Numbers
+weekly-contest-205,1578,Minimum Time to Make Rope Colorful
+weekly-contest-205,1579,Remove Max Number of Edges to Keep Graph Fully Traversable
+weekly-contest-206,1582,Special Positions in a Binary Matrix
+weekly-contest-206,1583,Count Unhappy Friends
+weekly-contest-206,1584,Min Cost to Connect All Points
+weekly-contest-206,1585,Check If String Is Transformable With Substring Sort Operations
+biweekly-contest-35,1588,Sum of All Odd Length Subarrays
+biweekly-contest-35,1589,Maximum Sum Obtained of Any Permutation
+biweekly-contest-35,1590,Make Sum Divisible by P
+biweekly-contest-35,1591,Strange Printer II
+weekly-contest-207,1592,Rearrange Spaces Between Words
+weekly-contest-207,1593,Split a String Into the Max Number of Unique Substrings
+weekly-contest-207,1594,Maximum Non Negative Product in a Matrix
+weekly-contest-207,1595,Minimum Cost to Connect Two Groups of Points
+weekly-contest-208,1598,Crawler Log Folder
+weekly-contest-208,1599,Maximum Profit of Operating a Centennial Wheel
+weekly-contest-208,1600,Throne Inheritance
+weekly-contest-208,1601,Maximum Number of Achievable Transfer Requests
+biweekly-contest-36,1603,Design Parking System
+biweekly-contest-36,1604,Alert Using Same Key-Card Three or More Times in a One Hour Period
+biweekly-contest-36,1605,Find Valid Matrix Given Row and Column Sums
+biweekly-contest-36,1606,Find Servers That Handled Most Number of Requests
+weekly-contest-209,1608,Special Array With X Elements Greater Than or Equal X
+weekly-contest-209,1609,Even Odd Tree
+weekly-contest-209,1610,Maximum Number of Visible Points
+weekly-contest-209,1611,Minimum One Bit Operations to Make Integers Zero
+weekly-contest-210,1614,Maximum Nesting Depth of the Parentheses
+weekly-contest-210,1615,Maximal Network Rank
+weekly-contest-210,1616,Split Two Strings to Make Palindrome
+weekly-contest-210,1617,Count Subtrees With Max Distance Between Cities
+biweekly-contest-37,1619,Mean of Array After Removing Some Elements
+biweekly-contest-37,1620,Coordinate With Maximum Network Quality
+biweekly-contest-37,1621,Number of Sets of K Non-Overlapping Line Segments
+biweekly-contest-37,1622,Fancy Sequence
+weekly-contest-211,1624,Largest Substring Between Two Equal Characters
+weekly-contest-211,1625,Lexicographically Smallest String After Applying Operations
+weekly-contest-211,1626,Best Team With No Conflicts
+weekly-contest-211,1627,Graph Connectivity With Threshold
+weekly-contest-212,1629,Slowest Key
+weekly-contest-212,1630,Arithmetic Subarrays
+weekly-contest-212,1631,Path With Minimum Effort
+weekly-contest-212,1632,Rank Transform of a Matrix
+biweekly-contest-38,1636,Sort Array by Increasing Frequency
+biweekly-contest-38,1637,Widest Vertical Area Between Two Points Containing No Points
+biweekly-contest-38,1638,Count Substrings That Differ by One Character
+biweekly-contest-38,1639,Number of Ways to Form a Target String Given a Dictionary
+weekly-contest-213,1640,Check Array Formation Through Concatenation
+weekly-contest-213,1641,Count Sorted Vowel Strings
+weekly-contest-213,1642,Furthest Building You Can Reach
+weekly-contest-213,1643,Kth Smallest Instructions
+weekly-contest-214,1646,Get Maximum in Generated Array
+weekly-contest-214,1647,Minimum Deletions to Make Character Frequencies Unique
+weekly-contest-214,1648,Sell Diminishing-Valued Colored Balls
+weekly-contest-214,1649,Create Sorted Array through Instructions
+biweekly-contest-39,1652,Defuse the Bomb
+biweekly-contest-39,1653,Minimum Deletions to Make String Balanced
+biweekly-contest-39,1654,Minimum Jumps to Reach Home
+biweekly-contest-39,1655,Distribute Repeating Integers
+weekly-contest-215,1656,Design an Ordered Stream
+weekly-contest-215,1657,Determine if Two Strings Are Close
+weekly-contest-215,1658,Minimum Operations to Reduce X to Zero
+weekly-contest-215,1659,Maximize Grid Happiness
+weekly-contest-216,1662,Check If Two String Arrays are Equivalent
+weekly-contest-216,1663,Smallest String With A Given Numeric Value
+weekly-contest-216,1664,Ways to Make a Fair Array
+weekly-contest-216,1665,Minimum Initial Energy to Finish Tasks
+biweekly-contest-40,1668,Maximum Repeating Substring
+biweekly-contest-40,1669,Merge In Between Linked Lists
+biweekly-contest-40,1670,Design Front Middle Back Queue
+biweekly-contest-40,1671,Minimum Number of Removals to Make Mountain Array
+weekly-contest-217,1672,Richest Customer Wealth
+weekly-contest-217,1673,Find the Most Competitive Subsequence
+weekly-contest-217,1674,Minimum Moves to Make Array Complementary
+weekly-contest-217,1675,Minimize Deviation in Array
+weekly-contest-218,1678,Goal Parser Interpretation
+weekly-contest-218,1679,Max Number of K-Sum Pairs
+weekly-contest-218,1680,Concatenation of Consecutive Binary Numbers
+weekly-contest-218,1681,Minimum Incompatibility
+biweekly-contest-41,1684,Count the Number of Consistent Strings
+biweekly-contest-41,1685,Sum of Absolute Differences in a Sorted Array
+biweekly-contest-41,1686,Stone Game VI
+biweekly-contest-41,1687,Delivering Boxes from Storage to Ports
+weekly-contest-219,1688,Count of Matches in Tournament
+weekly-contest-219,1689,Partitioning Into Minimum Number Of Deci-Binary Numbers
+weekly-contest-219,1690,Stone Game VII
+weekly-contest-219,1691,Maximum Height by Stacking Cuboids 
+weekly-contest-220,1694,Reformat Phone Number
+weekly-contest-220,1695,Maximum Erasure Value
+weekly-contest-220,1696,Jump Game VI
+weekly-contest-220,1697,Checking Existence of Edge Length Limited Paths
+biweekly-contest-42,1700,Number of Students Unable to Eat Lunch
+biweekly-contest-42,1701,Average Waiting Time
+biweekly-contest-42,1702,Maximum Binary String After Change
+biweekly-contest-42,1703,Minimum Adjacent Swaps for K Consecutive Ones
+weekly-contest-221,1704,Determine if String Halves Are Alike
+weekly-contest-221,1705,Maximum Number of Eaten Apples
+weekly-contest-221,1706,Where Will the Ball Fall
+weekly-contest-221,1707,Maximum XOR With an Element From Array
+weekly-contest-222,1710,Maximum Units on a Truck
+weekly-contest-222,1711,Count Good Meals
+weekly-contest-222,1712,Ways to Split Array Into Three Subarrays
+weekly-contest-222,1713,Minimum Operations to Make a Subsequence
+biweekly-contest-43,1716,Calculate Money in Leetcode Bank
+biweekly-contest-43,1717,Maximum Score From Removing Substrings
+biweekly-contest-43,1718,Construct the Lexicographically Largest Valid Sequence
+biweekly-contest-43,1719,Number Of Ways To Reconstruct A Tree
+weekly-contest-223,1720,Decode XORed Array
+weekly-contest-223,1721,Swapping Nodes in a Linked List
+weekly-contest-223,1722,Minimize Hamming Distance After Swap Operations
+weekly-contest-223,1723,Find Minimum Time to Finish All Jobs
+weekly-contest-224,1725,Number Of Rectangles That Can Form The Largest Square
+weekly-contest-224,1726,Tuple with Same Product
+weekly-contest-224,1727,Largest Submatrix With Rearrangements
+weekly-contest-224,1728,Cat and Mouse II
+biweekly-contest-44,1732,Find the Highest Altitude
+biweekly-contest-44,1733,Minimum Number of People to Teach
+biweekly-contest-44,1734,Decode XORed Permutation
+biweekly-contest-44,1735,Count Ways to Make Array With Product
+weekly-contest-225,1736,Latest Time by Replacing Hidden Digits
+weekly-contest-225,1737,Change Minimum Characters to Satisfy One of Three Conditions
+weekly-contest-225,1738,Find Kth Largest XOR Coordinate Value
+weekly-contest-225,1739,Building Boxes
+weekly-contest-226,1742,Maximum Number of Balls in a Box
+weekly-contest-226,1743,Restore the Array From Adjacent Pairs
+weekly-contest-226,1744,Can You Eat Your Favorite Candy on Your Favorite Day?
+weekly-contest-226,1745,Palindrome Partitioning IV
+biweekly-contest-45,1748,Sum of Unique Elements
+biweekly-contest-45,1749,Maximum Absolute Sum of Any Subarray
+biweekly-contest-45,1750,Minimum Length of String After Deleting Similar Ends
+biweekly-contest-45,1751,Maximum Number of Events That Can Be Attended II
+weekly-contest-227,1752,Check if Array Is Sorted and Rotated
+weekly-contest-227,1753,Maximum Score From Removing Stones
+weekly-contest-227,1754,Largest Merge Of Two Strings
+weekly-contest-227,1755,Closest Subsequence Sum
+weekly-contest-228,1758,Minimum Changes To Make Alternating Binary String
+weekly-contest-228,1759,Count Number of Homogenous Substrings
+weekly-contest-228,1760,Minimum Limit of Balls in a Bag
+weekly-contest-228,1761,Minimum Degree of a Connected Trio in a Graph
+biweekly-contest-46,1763,Longest Nice Substring
+biweekly-contest-46,1764,Form Array by Concatenating Subarrays of Another Array
+biweekly-contest-46,1765,Map of Highest Peak
+biweekly-contest-46,1766,Tree of Coprimes
+weekly-contest-229,1768,Merge Strings Alternately
+weekly-contest-229,1769,Minimum Number of Operations to Move All Balls to Each Box
+weekly-contest-229,1770,Maximum Score from Performing Multiplication Operations
+weekly-contest-229,1771,Maximize Palindrome Length From Subsequences
+weekly-contest-230,1773,Count Items Matching a Rule
+weekly-contest-230,1774,Closest Dessert Cost
+weekly-contest-230,1775,Equal Sum Arrays With Minimum Number of Operations
+weekly-contest-230,1776,Car Fleet II
+biweekly-contest-47,1779,Find Nearest Point That Has the Same X or Y Coordinate
+biweekly-contest-47,1780,Check if Number is a Sum of Powers of Three
+biweekly-contest-47,1781,Sum of Beauty of All Substrings
+biweekly-contest-47,1782,Count Pairs Of Nodes
+weekly-contest-231,1784,Check if Binary String Has at Most One Segment of Ones
+weekly-contest-231,1785,Minimum Elements to Add to Form a Given Sum
+weekly-contest-231,1786,Number of Restricted Paths From First to Last Node
+weekly-contest-231,1787,Make the XOR of All Segments Equal to Zero
+weekly-contest-232,1790,Check if One String Swap Can Make Strings Equal
+weekly-contest-232,1791,Find Center of Star Graph
+weekly-contest-232,1792,Maximum Average Pass Ratio
+weekly-contest-232,1793,Maximum Score of a Good Subarray
+biweekly-contest-48,1796,Second Largest Digit in a String
+biweekly-contest-48,1797,Design Authentication Manager
+biweekly-contest-48,1798,Maximum Number of Consecutive Values You Can Make
+biweekly-contest-48,1799,Maximize Score After N Operations
+weekly-contest-233,1800,Maximum Ascending Subarray Sum
+weekly-contest-233,1801,Number of Orders in the Backlog
+weekly-contest-233,1802,Maximum Value at a Given Index in a Bounded Array
+weekly-contest-233,1803,Count Pairs With XOR in a Range
+weekly-contest-234,1805,Number of Different Integers in a String
+weekly-contest-234,1806,Minimum Number of Operations to Reinitialize a Permutation
+weekly-contest-234,1807,Evaluate the Bracket Pairs of a String
+weekly-contest-234,1808,Maximize Number of Nice Divisors
+biweekly-contest-49,1812,Determine Color of a Chessboard Square
+biweekly-contest-49,1813,Sentence Similarity III
+biweekly-contest-49,1814,Count Nice Pairs in an Array
+biweekly-contest-49,1815,Maximum Number of Groups Getting Fresh Donuts
+weekly-contest-235,1816,Truncate Sentence
+weekly-contest-235,1817,Finding the Users Active Minutes
+weekly-contest-235,1818,Minimum Absolute Sum Difference
+weekly-contest-235,1819,Number of Different Subsequences GCDs
+weekly-contest-236,1822,Sign of the Product of an Array
+weekly-contest-236,1823,Find the Winner of the Circular Game
+weekly-contest-236,1824,Minimum Sideway Jumps
+weekly-contest-236,1825,Finding MK Average
+biweekly-contest-50,1827,Minimum Operations to Make the Array Increasing
+biweekly-contest-50,1828,Queries on Number of Points Inside a Circle
+biweekly-contest-50,1829,Maximum XOR for Each Query
+biweekly-contest-50,1830,Minimum Number of Operations to Make String Sorted
+weekly-contest-237,1832,Check if the Sentence Is Pangram
+weekly-contest-237,1833,Maximum Ice Cream Bars
+weekly-contest-237,1834,Single-Threaded CPU
+weekly-contest-237,1835,Find XOR Sum of All Pairs Bitwise AND
+weekly-contest-238,1837,Sum of Digits in Base K
+weekly-contest-238,1838,Frequency of the Most Frequent Element
+weekly-contest-238,1839,Longest Substring Of All Vowels in Order
+weekly-contest-238,1840,Maximum Building Height
+biweekly-contest-51,1844,Replace All Digits with Characters
+biweekly-contest-51,1845,Seat Reservation Manager
+biweekly-contest-51,1846,Maximum Element After Decreasing and Rearranging
+biweekly-contest-51,1847,Closest Room
+weekly-contest-239,1848,Minimum Distance to the Target Element
+weekly-contest-239,1849,Splitting a String Into Descending Consecutive Values
+weekly-contest-239,1850,Minimum Adjacent Swaps to Reach the Kth Smallest Number
+weekly-contest-239,1851,Minimum Interval to Include Each Query
+weekly-contest-240,1854,Maximum Population Year
+weekly-contest-240,1855,Maximum Distance Between a Pair of Values
+weekly-contest-240,1856,Maximum Subarray Min-Product
+weekly-contest-240,1857,Largest Color Value in a Directed Graph
+biweekly-contest-52,1859,Sorting the Sentence
+biweekly-contest-52,1860,Incremental Memory Leak
+biweekly-contest-52,1861,Rotating the Box
+biweekly-contest-52,1862,Sum of Floored Pairs
+weekly-contest-241,1863,Sum of All Subset XOR Totals
+weekly-contest-241,1864,Minimum Number of Swaps to Make the Binary String Alternating
+weekly-contest-241,1865,Finding Pairs With a Certain Sum
+weekly-contest-241,1866,Number of Ways to Rearrange Sticks With K Sticks Visible
+weekly-contest-242,1869,Longer Contiguous Segments of Ones than Zeros
+weekly-contest-242,1870,Minimum Speed to Arrive on Time
+weekly-contest-242,1871,Jump Game VII
+weekly-contest-242,1872,Stone Game VIII
+biweekly-contest-53,1876,Substrings of Size Three with Distinct Characters
+biweekly-contest-53,1877,Minimize Maximum Pair Sum in Array
+biweekly-contest-53,1878,Get Biggest Three Rhombus Sums in a Grid
+biweekly-contest-53,1879,Minimum XOR Sum of Two Arrays
+weekly-contest-243,1880,Check if Word Equals Summation of Two Words
+weekly-contest-243,1881,Maximum Value after Insertion
+weekly-contest-243,1882,Process Tasks Using Servers
+weekly-contest-243,1883,Minimum Skips to Arrive at Meeting On Time
+weekly-contest-244,1886,Determine Whether Matrix Can Be Obtained By Rotation
+weekly-contest-244,1887,Reduction Operations to Make the Array Elements Equal
+weekly-contest-244,1888,Minimum Number of Flips to Make the Binary String Alternating
+weekly-contest-244,1889,Minimum Space Wasted From Packaging
+biweekly-contest-54,1893,Check if All the Integers in a Range Are Covered
+biweekly-contest-54,1894,Find the Student that Will Replace the Chalk
+biweekly-contest-54,1895,Largest Magic Square
+biweekly-contest-54,1896,Minimum Cost to Change the Final Value of Expression
+weekly-contest-245,1897,Redistribute Characters to Make All Strings Equal
+weekly-contest-245,1898,Maximum Number of Removable Characters
+weekly-contest-245,1899,Merge Triplets to Form Target Triplet
+weekly-contest-245,1900,The Earliest and Latest Rounds Where Players Compete
+weekly-contest-246,1903,Largest Odd Number in String
+weekly-contest-246,1904,The Number of Full Rounds You Have Played
+weekly-contest-246,1905,Count Sub Islands
+weekly-contest-246,1906,Minimum Absolute Difference Queries
+biweekly-contest-55,1909,Remove One Element to Make the Array Strictly Increasing
+biweekly-contest-55,1910,Remove All Occurrences of a Substring
+biweekly-contest-55,1911,Maximum Alternating Subsequence Sum
+biweekly-contest-55,1912,Design Movie Rental System
+weekly-contest-247,1913,Maximum Product Difference Between Two Pairs
+weekly-contest-247,1914,Cyclically Rotating a Grid
+weekly-contest-247,1915,Number of Wonderful Substrings
+weekly-contest-247,1916,Count Ways to Build Rooms in an Ant Colony
+weekly-contest-248,1920,Build Array from Permutation
+weekly-contest-248,1921,Eliminate Maximum Number of Monsters
+weekly-contest-248,1922,Count Good Numbers
+weekly-contest-248,1923,Longest Common Subpath
+biweekly-contest-56,1925,Count Square Sum Triples
+biweekly-contest-56,1926,Nearest Exit from Entrance in Maze
+biweekly-contest-56,1927,Sum Game
+biweekly-contest-56,1928,Minimum Cost to Reach Destination in Time
+weekly-contest-249,1929,Concatenation of Array
+weekly-contest-249,1930,Unique Length-3 Palindromic Subsequences
+weekly-contest-249,1931,Painting a Grid With Three Different Colors
+weekly-contest-249,1932,Merge BSTs to Create Single BST
+weekly-contest-250,1935,Maximum Number of Words You Can Type
+weekly-contest-250,1936,Add Minimum Number of Rungs
+weekly-contest-250,1937,Maximum Number of Points with Cost
+weekly-contest-250,1938,Maximum Genetic Difference Query
+biweekly-contest-57,1941,Check if All Characters Have Equal Number of Occurrences
+biweekly-contest-57,1942,The Number of the Smallest Unoccupied Chair
+biweekly-contest-57,1943,Describe the Painting
+biweekly-contest-57,1944,Number of Visible People in a Queue
+weekly-contest-251,1945,Sum of Digits of String After Convert
+weekly-contest-251,1946,Largest Number After Mutating Substring
+weekly-contest-251,1947,Maximum Compatibility Score Sum
+weekly-contest-251,1948,Delete Duplicate Folders in System
+weekly-contest-252,1952,Three Divisors
+weekly-contest-252,1953,Maximum Number of Weeks for Which You Can Work
+weekly-contest-252,1954,Minimum Garden Perimeter to Collect Enough Apples
+weekly-contest-252,1955,Count Number of Special Subsequences
+biweekly-contest-58,1957,Delete Characters to Make Fancy String
+biweekly-contest-58,1958,Check if Move is Legal
+biweekly-contest-58,1959,Minimum Total Space Wasted With K Resizing Operations
+biweekly-contest-58,1960,Maximum Product of the Length of Two Palindromic Substrings
+weekly-contest-253,1961,Check If String Is a Prefix of Array
+weekly-contest-253,1962,Remove Stones to Minimize the Total
+weekly-contest-253,1963,Minimum Number of Swaps to Make the String Balanced
+weekly-contest-253,1964,Find the Longest Valid Obstacle Course at Each Position
+weekly-contest-254,1967,Number of Strings That Appear as Substrings in Word
+weekly-contest-254,1968,Array With Elements Not Equal to Average of Neighbors
+weekly-contest-254,1969,Minimum Non-Zero Product of the Array Elements
+weekly-contest-254,1970,Last Day Where You Can Still Cross
+biweekly-contest-59,1974,Minimum Time to Type Word Using Special Typewriter
+biweekly-contest-59,1975,Maximum Matrix Sum
+biweekly-contest-59,1976,Number of Ways to Arrive at Destination
+biweekly-contest-59,1977,Number of Ways to Separate Numbers
+weekly-contest-255,1979,Find Greatest Common Divisor of Array
+weekly-contest-255,1980,Find Unique Binary String
+weekly-contest-255,1981,Minimize the Difference Between Target and Chosen Elements
+weekly-contest-255,1982,Find Array Given Subset Sums
+weekly-contest-256,1984,Minimum Difference Between Highest and Lowest of K Scores
+weekly-contest-256,1985,Find the Kth Largest Integer in the Array
+weekly-contest-256,1986,Minimum Number of Work Sessions to Finish the Tasks
+weekly-contest-256,1987,Number of Unique Good Subsequences
+biweekly-contest-60,1991,Find the Middle Index in Array
+biweekly-contest-60,1992,Find All Groups of Farmland
+biweekly-contest-60,1993,Operations on Tree
+biweekly-contest-60,1994,The Number of Good Subsets
+weekly-contest-257,1995,Count Special Quadruplets
+weekly-contest-257,1996,The Number of Weak Characters in the Game
+weekly-contest-257,1997,First Day Where You Have Been in All the Rooms
+weekly-contest-257,1998,GCD Sort of an Array
+weekly-contest-258,2000,Reverse Prefix of Word
+weekly-contest-258,2001,Number of Pairs of Interchangeable Rectangles
+weekly-contest-258,2002,Maximum Product of the Length of Two Palindromic Subsequences
+weekly-contest-258,2003,Smallest Missing Genetic Value in Each Subtree
+biweekly-contest-61,2006,Count Number of Pairs With Absolute Difference K
+biweekly-contest-61,2007,Find Original Array From Doubled Array
+biweekly-contest-61,2008,Maximum Earnings From Taxi
+biweekly-contest-61,2009,Minimum Number of Operations to Make Array Continuous
+weekly-contest-259,2011,Final Value of Variable After Performing Operations
+weekly-contest-259,2012,Sum of Beauty in the Array
+weekly-contest-259,2013,Detect Squares
+weekly-contest-259,2014,Longest Subsequence Repeated k Times
+weekly-contest-260,2016,Maximum Difference Between Increasing Elements
+weekly-contest-260,2017,Grid Game
+weekly-contest-260,2018,Check if Word Can Be Placed In Crossword
+weekly-contest-260,2019,The Score of Students Solving Math Expression
+biweekly-contest-62,2022,Convert 1D Array Into 2D Array
+biweekly-contest-62,2023,Number of Pairs of Strings With Concatenation Equal to Target
+biweekly-contest-62,2024,Maximize the Confusion of an Exam
+biweekly-contest-62,2025,Maximum Number of Ways to Partition an Array
+weekly-contest-261,2027,Minimum Moves to Convert String
+weekly-contest-261,2028,Find Missing Observations
+weekly-contest-261,2029,Stone Game IX
+weekly-contest-261,2030,Smallest K-Length Subsequence With Occurrences of a Letter
+weekly-contest-262,2032,Two Out of Three
+weekly-contest-262,2033,Minimum Operations to Make a Uni-Value Grid
+weekly-contest-262,2034,Stock Price Fluctuation 
+weekly-contest-262,2035,Partition Array Into Two Arrays to Minimize Sum Difference
+biweekly-contest-63,2037,Minimum Number of Moves to Seat Everyone
+biweekly-contest-63,2038,Remove Colored Pieces if Both Neighbors are the Same Color
+biweekly-contest-63,2039,The Time When the Network Becomes Idle
+biweekly-contest-63,2040,Kth Smallest Product of Two Sorted Arrays
+weekly-contest-263,2042,Check if Numbers Are Ascending in a Sentence
+weekly-contest-263,2043,Simple Bank System
+weekly-contest-263,2044,Count Number of Maximum Bitwise-OR Subsets
+weekly-contest-263,2045,Second Minimum Time to Reach Destination
+weekly-contest-264,2047,Number of Valid Words in a Sentence
+weekly-contest-264,2048,Next Greater Numerically Balanced Number
+weekly-contest-264,2049,Count Nodes With the Highest Score
+weekly-contest-264,2050,Parallel Courses III
+biweekly-contest-64,2053,Kth Distinct String in an Array
+biweekly-contest-64,2054,Two Best Non-Overlapping Events
+biweekly-contest-64,2055,Plates Between Candles
+biweekly-contest-64,2056,Number of Valid Move Combinations On Chessboard
+weekly-contest-265,2057,Smallest Index With Equal Value
+weekly-contest-265,2058,Find the Minimum and Maximum Number of Nodes Between Critical Points
+weekly-contest-265,2059,Minimum Operations to Convert Number
+weekly-contest-265,2060,Check if an Original String Exists Given Two Encoded Strings
+weekly-contest-266,2062,Count Vowel Substrings of a String
+weekly-contest-266,2063,Vowels of All Substrings
+weekly-contest-266,2064,Minimized Maximum of Products Distributed to Any Store
+weekly-contest-266,2065,Maximum Path Quality of a Graph
+biweekly-contest-65,2068,Check Whether Two Strings are Almost Equivalent
+biweekly-contest-65,2069,Walking Robot Simulation II
+biweekly-contest-65,2070,Most Beautiful Item for Each Query
+biweekly-contest-65,2071,Maximum Number of Tasks You Can Assign
+weekly-contest-267,2073,Time Needed to Buy Tickets
+weekly-contest-267,2074,Reverse Nodes in Even Length Groups
+weekly-contest-267,2075,Decode the Slanted Ciphertext
+weekly-contest-267,2076,Process Restricted Friend Requests
+weekly-contest-268,2078,Two Furthest Houses With Different Colors
+weekly-contest-268,2079,Watering Plants
+weekly-contest-268,2080,Range Frequency Queries
+weekly-contest-268,2081,Sum of k-Mirror Numbers
+biweekly-contest-66,2085,Count Common Words With One Occurrence
+biweekly-contest-66,2086,Minimum Number of Food Buckets to Feed the Hamsters
+biweekly-contest-66,2087,Minimum Cost Homecoming of a Robot in a Grid
+biweekly-contest-66,2088,Count Fertile Pyramids in a Land
+weekly-contest-269,2089,Find Target Indices After Sorting Array
+weekly-contest-269,2090,K Radius Subarray Averages
+weekly-contest-269,2091,Removing Minimum and Maximum From Array
+weekly-contest-269,2092,Find All People With Secret
+weekly-contest-270,2094,Finding 3-Digit Even Numbers
+weekly-contest-270,2095,Delete the Middle Node of a Linked List
+weekly-contest-270,2096,Step-By-Step Directions From a Binary Tree Node to Another
+weekly-contest-270,2097,Valid Arrangement of Pairs
+biweekly-contest-67,2099,Find Subsequence of Length K With the Largest Sum
+biweekly-contest-67,2100,Find Good Days to Rob the Bank
+biweekly-contest-67,2101,Detonate the Maximum Bombs
+biweekly-contest-67,2102,Sequentially Ordinal Rank Tracker
+weekly-contest-271,2103,Rings and Rods
+weekly-contest-271,2104,Sum of Subarray Ranges
+weekly-contest-271,2105,Watering Plants II
+weekly-contest-271,2106,Maximum Fruits Harvested After at Most K Steps
+weekly-contest-272,2108,Find First Palindromic String in the Array
+weekly-contest-272,2109,Adding Spaces to a String
+weekly-contest-272,2110,Number of Smooth Descent Periods of a Stock
+weekly-contest-272,2111,Minimum Operations to Make the Array K-Increasing
+biweekly-contest-68,2114,Maximum Number of Words Found in Sentences
+biweekly-contest-68,2115,Find All Possible Recipes from Given Supplies
+biweekly-contest-68,2116,Check if a Parentheses String Can Be Valid
+biweekly-contest-68,2117,Abbreviating the Product of a Range
+weekly-contest-273,2119,A Number After a Double Reversal
+weekly-contest-273,2120,Execution of All Suffix Instructions Staying in a Grid
+weekly-contest-273,2121,Intervals Between Identical Elements
+weekly-contest-273,2122,Recover the Original Array
+weekly-contest-274,2124,Check if All A's Appears Before All B's
+weekly-contest-274,2125,Number of Laser Beams in a Bank
+weekly-contest-274,2126,Destroying Asteroids
+weekly-contest-274,2127,Maximum Employees to Be Invited to a Meeting
+biweekly-contest-69,2129,Capitalize the Title
+biweekly-contest-69,2130,Maximum Twin Sum of a Linked List
+biweekly-contest-69,2131,Longest Palindrome by Concatenating Two Letter Words
+biweekly-contest-69,2132,Stamping the Grid
+weekly-contest-275,2133,Check if Every Row and Column Contains All Numbers
+weekly-contest-275,2134,Minimum Swaps to Group All 1's Together II
+weekly-contest-275,2135,Count Words Obtained After Adding a Letter
+weekly-contest-275,2136,Earliest Possible Day of Full Bloom
+weekly-contest-276,2138,Divide a String Into Groups of Size k
+weekly-contest-276,2139,Minimum Moves to Reach Target Score
+weekly-contest-276,2140,Solving Questions With Brainpower
+weekly-contest-276,2141,Maximum Running Time of N Computers
+biweekly-contest-70,2144,Minimum Cost of Buying Candies With Discount
+biweekly-contest-70,2145,Count the Hidden Sequences
+biweekly-contest-70,2146,K Highest Ranked Items Within a Price Range
+biweekly-contest-70,2147,Number of Ways to Divide a Long Corridor
+weekly-contest-277,2148,Count Elements With Strictly Smaller and Greater Elements 
+weekly-contest-277,2149,Rearrange Array Elements by Sign
+weekly-contest-277,2150,Find All Lonely Numbers in the Array
+weekly-contest-277,2151,Maximum Good People Based on Statements
+weekly-contest-278,2154,Keep Multiplying Found Values by Two
+weekly-contest-278,2155,All Divisions With the Highest Score of a Binary Array
+weekly-contest-278,2156,Find Substring With Given Hash Value
+weekly-contest-278,2157,Groups of Strings
+biweekly-contest-71,2160,Minimum Sum of Four Digit Number After Splitting Digits
+biweekly-contest-71,2161,Partition Array According to Given Pivot
+biweekly-contest-71,2162,Minimum Cost to Set Cooking Time
+biweekly-contest-71,2163,Minimum Difference in Sums After Removal of Elements
+weekly-contest-279,2164,Sort Even and Odd Indices Independently
+weekly-contest-279,2165,Smallest Value of the Rearranged Number
+weekly-contest-279,2166,Design Bitset
+weekly-contest-279,2167,Minimum Time to Remove All Cars Containing Illegal Goods
+weekly-contest-280,2169,Count Operations to Obtain Zero
+weekly-contest-280,2170,Minimum Operations to Make the Array Alternating
+weekly-contest-280,2171,Removing Minimum Number of Magic Beans
+weekly-contest-280,2172,Maximum AND Sum of Array
+biweekly-contest-72,2176,Count Equal and Divisible Pairs in an Array
+biweekly-contest-72,2177,Find Three Consecutive Integers That Sum to a Given Number
+biweekly-contest-72,2178,Maximum Split of Positive Even Integers
+biweekly-contest-72,2179,Count Good Triplets in an Array
+weekly-contest-281,2180,Count Integers With Even Digit Sum
+weekly-contest-281,2181,Merge Nodes in Between Zeros
+weekly-contest-281,2182,Construct String With Repeat Limit
+weekly-contest-281,2183,Count Array Pairs Divisible by K
+weekly-contest-282,2185,Counting Words With a Given Prefix
+weekly-contest-282,2186,Minimum Number of Steps to Make Two Strings Anagram II
+weekly-contest-282,2187,Minimum Time to Complete Trips
+weekly-contest-282,2188,Minimum Time to Finish the Race
+biweekly-contest-73,2190,Most Frequent Number Following Key In an Array
+biweekly-contest-73,2191,Sort the Jumbled Numbers
+biweekly-contest-73,2192,All Ancestors of a Node in a Directed Acyclic Graph
+biweekly-contest-73,2193,Minimum Number of Moves to Make Palindrome
+weekly-contest-283,2194,Cells in a Range on an Excel Sheet
+weekly-contest-283,2195,Append K Integers With Minimal Sum
+weekly-contest-283,2196,Create Binary Tree From Descriptions
+weekly-contest-283,2197,Replace Non-Coprime Numbers in Array
+weekly-contest-284,2200,Find All K-Distant Indices in an Array
+weekly-contest-284,2201,Count Artifacts That Can Be Extracted
+weekly-contest-284,2202,Maximize the Topmost Element After K Moves
+weekly-contest-284,2203,Minimum Weighted Subgraph With the Required Paths
+biweekly-contest-74,2206,Divide Array Into Equal Pairs
+biweekly-contest-74,2207,Maximize Number of Subsequences in a String
+biweekly-contest-74,2208,Minimum Operations to Halve Array Sum
+biweekly-contest-74,2209,Minimum White Tiles After Covering With Carpets
+weekly-contest-285,2210,Count Hills and Valleys in an Array
+weekly-contest-285,2211,Count Collisions on a Road
+weekly-contest-285,2212,Maximum Points in an Archery Competition
+weekly-contest-285,2213,Longest Substring of One Repeating Character
+weekly-contest-286,2215,Find the Difference of Two Arrays
+weekly-contest-286,2216,Minimum Deletions to Make Array Beautiful
+weekly-contest-286,2217,Find Palindrome With Fixed Length
+weekly-contest-286,2218,Maximum Value of K Coins From Piles
+biweekly-contest-75,2220,Minimum Bit Flips to Convert Number
+biweekly-contest-75,2221,Find Triangular Sum of an Array
+biweekly-contest-75,2222,Number of Ways to Select Buildings
+biweekly-contest-75,2223,Sum of Scores of Built Strings
+weekly-contest-287,2224,Minimum Number of Operations to Convert Time
+weekly-contest-287,2225,Find Players With Zero or One Losses
+weekly-contest-287,2226,Maximum Candies Allocated to K Children
+weekly-contest-287,2227,Encrypt and Decrypt Strings
+weekly-contest-288,2231,Largest Number After Digit Swaps by Parity
+weekly-contest-288,2232,Minimize Result by Adding Parentheses to Expression
+weekly-contest-288,2233,Maximum Product After K Increments
+weekly-contest-288,2234,Maximum Total Beauty of the Gardens
+biweekly-contest-76,2239,Find Closest Number to Zero
+biweekly-contest-76,2240,Number of Ways to Buy Pens and Pencils
+biweekly-contest-76,2241,Design an ATM Machine
+biweekly-contest-76,2242,Maximum Score of a Node Sequence
+weekly-contest-289,2243,Calculate Digit Sum of a String
+weekly-contest-289,2244,Minimum Rounds to Complete All Tasks
+weekly-contest-289,2245,Maximum Trailing Zeros in a Cornered Path
+weekly-contest-289,2246,Longest Path With Different Adjacent Characters
+weekly-contest-290,2248,Intersection of Multiple Arrays
+weekly-contest-290,2249,Count Lattice Points Inside a Circle
+weekly-contest-290,2250,Count Number of Rectangles Containing Each Point
+weekly-contest-290,2251,Number of Flowers in Full Bloom
+biweekly-contest-77,2255,Count Prefixes of a Given String
+biweekly-contest-77,2256,Minimum Average Difference
+biweekly-contest-77,2257,Count Unguarded Cells in the Grid
+biweekly-contest-77,2258,Escape the Spreading Fire
+weekly-contest-291,2259,Remove Digit From Number to Maximize Result
+weekly-contest-291,2260,Minimum Consecutive Cards to Pick Up
+weekly-contest-291,2261,K Divisible Elements Subarrays
+weekly-contest-291,2262,Total Appeal of A String
+weekly-contest-292,2264,Largest 3-Same-Digit Number in String
+weekly-contest-292,2265,Count Nodes Equal to Average of Subtree
+weekly-contest-292,2266,Count Number of Texts
+weekly-contest-292,2267, Check if There Is a Valid Parentheses String Path
+biweekly-contest-78,2269,Find the K-Beauty of a Number
+biweekly-contest-78,2270,Number of Ways to Split Array
+biweekly-contest-78,2271,Maximum White Tiles Covered by a Carpet
+biweekly-contest-78,2272,Substring With Largest Variance
+weekly-contest-293,2273,Find Resultant Array After Removing Anagrams
+weekly-contest-293,2274,Maximum Consecutive Floors Without Special Floors
+weekly-contest-293,2275,Largest Combination With Bitwise AND Greater Than Zero
+weekly-contest-293,2276,Count Integers in Intervals
+weekly-contest-294,2278,Percentage of Letter in String
+weekly-contest-294,2279,Maximum Bags With Full Capacity of Rocks
+weekly-contest-294,2280,Minimum Lines to Represent a Line Chart
+weekly-contest-294,2281,Sum of Total Strength of Wizards
+biweekly-contest-79,2283,Check if Number Has Equal Digit Count and Digit Value
+biweekly-contest-79,2284,Sender With Largest Word Count
+biweekly-contest-79,2285,Maximum Total Importance of Roads
+biweekly-contest-79,2286,Booking Concert Tickets in Groups
+weekly-contest-295,2287,Rearrange Characters to Make Target String
+weekly-contest-295,2288,Apply Discount to Prices
+weekly-contest-295,2289,Steps to Make Array Non-decreasing
+weekly-contest-295,2290,Minimum Obstacle Removal to Reach Corner
+weekly-contest-296,2293,Min Max Game
+weekly-contest-296,2294,Partition Array Such That Maximum Difference Is K
+weekly-contest-296,2295,Replace Elements in an Array
+weekly-contest-296,2296,Design a Text Editor
+biweekly-contest-80,2299,Strong Password Checker II
+biweekly-contest-80,2300,Successful Pairs of Spells and Potions
+biweekly-contest-80,2301,Match Substring After Replacement
+biweekly-contest-80,2302,Count Subarrays With Score Less Than K
+weekly-contest-297,2303,Calculate Amount Paid in Taxes
+weekly-contest-297,2304,Minimum Path Cost in a Grid
+weekly-contest-297,2305,Fair Distribution of Cookies
+weekly-contest-297,2306,Naming a Company
+weekly-contest-298,2309,Greatest English Letter in Upper and Lower Case
+weekly-contest-298,2310,Sum of Numbers With Units Digit K
+weekly-contest-298,2311,Longest Binary Subsequence Less Than or Equal to K
+weekly-contest-298,2312,Selling Pieces of Wood
+biweekly-contest-81,2315,Count Asterisks
+biweekly-contest-81,2316,Count Unreachable Pairs of Nodes in an Undirected Graph
+biweekly-contest-81,2317,Maximum XOR After Operations 
+biweekly-contest-81,2318,Number of Distinct Roll Sequences
+weekly-contest-299,2319,Check if Matrix Is X-Matrix
+weekly-contest-299,2320,Count Number of Ways to Place Houses
+weekly-contest-299,2321,Maximum Score Of Spliced Array
+weekly-contest-299,2322,Minimum Score After Removals on a Tree
+weekly-contest-300,2325,Decode the Message
+weekly-contest-300,2326,Spiral Matrix IV
+weekly-contest-300,2327,Number of People Aware of a Secret
+weekly-contest-300,2328,Number of Increasing Paths in a Grid
+biweekly-contest-82,2331,Evaluate Boolean Binary Tree
+biweekly-contest-82,2332,The Latest Time to Catch a Bus
+biweekly-contest-82,2333,Minimum Sum of Squared Difference
+biweekly-contest-82,2334,Subarray With Elements Greater Than Varying Threshold
+weekly-contest-301,2335,Minimum Amount of Time to Fill Cups
+weekly-contest-301,2336,Smallest Number in Infinite Set
+weekly-contest-301,2337,Move Pieces to Obtain a String
+weekly-contest-301,2338,Count the Number of Ideal Arrays
+weekly-contest-302,2341,Maximum Number of Pairs in Array
+weekly-contest-302,2342,Max Sum of a Pair With Equal Sum of Digits
+weekly-contest-302,2343,Query Kth Smallest Trimmed Number
+weekly-contest-302,2344,Minimum Deletions to Make Array Divisible
+biweekly-contest-83,2347,Best Poker Hand
+biweekly-contest-83,2348,Number of Zero-Filled Subarrays
+biweekly-contest-83,2349,Design a Number Container System
+biweekly-contest-83,2350,Shortest Impossible Sequence of Rolls
+weekly-contest-303,2351,First Letter to Appear Twice
+weekly-contest-303,2352,Equal Row and Column Pairs
+weekly-contest-303,2353,Design a Food Rating System
+weekly-contest-303,2354,Number of Excellent Pairs
+weekly-contest-304,2357,Make Array Zero by Subtracting Equal Amounts
+weekly-contest-304,2358,Maximum Number of Groups Entering a Competition
+weekly-contest-304,2359,Find Closest Node to Given Two Nodes
+weekly-contest-304,2360,Longest Cycle in a Graph
+biweekly-contest-84,2363,Merge Similar Items
+biweekly-contest-84,2364,Count Number of Bad Pairs
+biweekly-contest-84,2365,Task Scheduler II
+biweekly-contest-84,2366,Minimum Replacements to Sort the Array
+weekly-contest-305,2367,Number of Arithmetic Triplets
+weekly-contest-305,2368,Reachable Nodes With Restrictions
+weekly-contest-305,2369,Check if There is a Valid Partition For The Array
+weekly-contest-305,2370,Longest Ideal Subsequence
+weekly-contest-306,2373,Largest Local Values in a Matrix
+weekly-contest-306,2374,Node With Highest Edge Score
+weekly-contest-306,2375,Construct Smallest Number From DI String
+weekly-contest-306,2376,Count Special Integers
+biweekly-contest-85,2379,Minimum Recolors to Get K Consecutive Black Blocks
+biweekly-contest-85,2380,Time Needed to Rearrange a Binary String
+biweekly-contest-85,2381,Shifting Letters II
+biweekly-contest-85,2382,Maximum Segment Sum After Removals
+weekly-contest-307,2383,Minimum Hours of Training to Win a Competition
+weekly-contest-307,2384,Largest Palindromic Number
+weekly-contest-307,2385,Amount of Time for Binary Tree to Be Infected
+weekly-contest-307,2386,Find the K-Sum of an Array
+weekly-contest-308,2389,Longest Subsequence With Limited Sum
+weekly-contest-308,2390,Removing Stars From a String
+weekly-contest-308,2391,Minimum Amount of Time to Collect Garbage
+weekly-contest-308,2392,Build a Matrix With Conditions
+biweekly-contest-86,2395,Find Subarrays With Equal Sum
+biweekly-contest-86,2396,Strictly Palindromic Number
+biweekly-contest-86,2397,Maximum Rows Covered by Columns
+biweekly-contest-86,2398,Maximum Number of Robots Within Budget
+weekly-contest-309,2399,Check Distances Between Same Letters
+weekly-contest-309,2400,Number of Ways to Reach a Position After Exactly k Steps
+weekly-contest-309,2401,Longest Nice Subarray
+weekly-contest-309,2402,Meeting Rooms III
+weekly-contest-310,2404,Most Frequent Even Element
+weekly-contest-310,2405,Optimal Partition of String
+weekly-contest-310,2406,Divide Intervals Into Minimum Number of Groups
+weekly-contest-310,2407,Longest Increasing Subsequence II
+biweekly-contest-87,2409,Count Days Spent Together
+biweekly-contest-87,2410,Maximum Matching of Players With Trainers
+biweekly-contest-87,2411,Smallest Subarrays With Maximum Bitwise OR
+biweekly-contest-87,2412,Minimum Money Required Before Transactions
+weekly-contest-311,2413,Smallest Even Multiple
+weekly-contest-311,2414,Length of the Longest Alphabetical Continuous Substring
+weekly-contest-311,2415,Reverse Odd Levels of Binary Tree
+weekly-contest-311,2416,Sum of Prefix Scores of Strings
+weekly-contest-312,2418,Sort the People
+weekly-contest-312,2419,Longest Subarray With Maximum Bitwise AND
+weekly-contest-312,2420,Find All Good Indices
+weekly-contest-312,2421,Number of Good Paths
+biweekly-contest-88,2423,Remove Letter To Equalize Frequency
+biweekly-contest-88,2424,Longest Uploaded Prefix
+biweekly-contest-88,2425,Bitwise XOR of All Pairings
+biweekly-contest-88,2426,Number of Pairs Satisfying Inequality
+weekly-contest-313,2427,Number of Common Factors
+weekly-contest-313,2428,Maximum Sum of an Hourglass
+weekly-contest-313,2429,Minimize XOR
+weekly-contest-313,2430,Maximum Deletions on a String
+weekly-contest-314,2432,The Employee That Worked on the Longest Task
+weekly-contest-314,2433,Find The Original Array of Prefix Xor
+weekly-contest-314,2434,Using a Robot to Print the Lexicographically Smallest String
+weekly-contest-314,2435,Paths in Matrix Whose Sum Is Divisible by K
+biweekly-contest-89,2437,Number of Valid Clock Times
+biweekly-contest-89,2438,Range Product Queries of Powers
+biweekly-contest-89,2439,Minimize Maximum of Array
+biweekly-contest-89,2440,Create Components With Same Value
+weekly-contest-315,2441,Largest Positive Integer That Exists With Its Negative
+weekly-contest-315,2442,Count Number of Distinct Integers After Reverse Operations
+weekly-contest-315,2443,Sum of Number and Its Reverse
+weekly-contest-315,2444,Count Subarrays With Fixed Bounds
+weekly-contest-316,2446,Determine if Two Events Have Conflict
+weekly-contest-316,2447,Number of Subarrays With GCD Equal to K
+weekly-contest-316,2448,Minimum Cost to Make Array Equal
+weekly-contest-316,2449,Minimum Number of Operations to Make Arrays Similar
+biweekly-contest-90,2451,Odd String Difference
+biweekly-contest-90,2452,Words Within Two Edits of Dictionary
+biweekly-contest-90,2453,Destroy Sequential Targets
+biweekly-contest-90,2454,Next Greater Element IV
+weekly-contest-317,2455,Average Value of Even Numbers That Are Divisible by Three
+weekly-contest-317,2456,Most Popular Video Creator
+weekly-contest-317,2457,Minimum Addition to Make Integer Beautiful
+weekly-contest-317,2458,Height of Binary Tree After Subtree Removal Queries
+weekly-contest-318,2460,Apply Operations to an Array
+weekly-contest-318,2461,Maximum Sum of Distinct Subarrays With Length K
+weekly-contest-318,2462,Total Cost to Hire K Workers
+weekly-contest-318,2463,Minimum Total Distance Traveled
+biweekly-contest-91,2465,Number of Distinct Averages
+biweekly-contest-91,2466,Count Ways To Build Good Strings
+biweekly-contest-91,2467,Most Profitable Path in a Tree
+biweekly-contest-91,2468,Split Message Based on Limit
+weekly-contest-319,2469,Convert the Temperature
+weekly-contest-319,2470,Number of Subarrays With LCM Equal to K
+weekly-contest-319,2471,Minimum Number of Operations to Sort a Binary Tree by Level
+weekly-contest-319,2472,Maximum Number of Non-overlapping Palindrome Substrings
+weekly-contest-320,2475,Number of Unequal Triplets in Array
+weekly-contest-320,2476,Closest Nodes Queries in a Binary Search Tree
+weekly-contest-320,2477,Minimum Fuel Cost to Report to the Capital
+weekly-contest-320,2478,Number of Beautiful Partitions
+biweekly-contest-92,2481,Minimum Cuts to Divide a Circle
+biweekly-contest-92,2482,Difference Between Ones and Zeros in Row and Column
+biweekly-contest-92,2483,Minimum Penalty for a Shop
+biweekly-contest-92,2484,Count Palindromic Subsequences
+weekly-contest-321,2485,Find the Pivot Integer
+weekly-contest-321,2486,Append Characters to String to Make Subsequence
+weekly-contest-321,2487,Remove Nodes From Linked List
+weekly-contest-321,2488,Count Subarrays With Median K
+weekly-contest-322,2490,Circular Sentence
+weekly-contest-322,2491,Divide Players Into Teams of Equal Skill
+weekly-contest-322,2492,Minimum Score of a Path Between Two Cities
+weekly-contest-322,2493,Divide Nodes Into the Maximum Number of Groups
+biweekly-contest-93,2496,Maximum Value of a String in an Array
+biweekly-contest-93,2497,Maximum Star Sum of a Graph
+biweekly-contest-93,2498,Frog Jump II
+biweekly-contest-93,2499,Minimum Total Cost to Make Arrays Unequal
+weekly-contest-323,2500,Delete Greatest Value in Each Row
+weekly-contest-323,2501,Longest Square Streak in an Array
+weekly-contest-323,2502,Design Memory Allocator
+weekly-contest-323,2503,Maximum Number of Points From Grid Queries
+weekly-contest-324,2506,Count Pairs Of Similar Strings
+weekly-contest-324,2507,Smallest Value After Replacing With Sum of Prime Factors
+weekly-contest-324,2508,Add Edges to Make Degrees of All Nodes Even
+weekly-contest-324,2509,Cycle Length Queries in a Tree
+biweekly-contest-94,2511,Maximum Enemy Forts That Can Be Captured
+biweekly-contest-94,2512,Reward Top K Students
+biweekly-contest-94,2513,Minimize the Maximum of Two Arrays
+biweekly-contest-94,2514,Count Anagrams
+weekly-contest-325,2515,Shortest Distance to Target String in a Circular Array
+weekly-contest-325,2516,Take K of Each Character From Left and Right
+weekly-contest-325,2517,Maximum Tastiness of Candy Basket
+weekly-contest-325,2518,Number of Great Partitions
+weekly-contest-326,2520,Count the Digits That Divide a Number
+weekly-contest-326,2521,Distinct Prime Factors of Product of Array
+weekly-contest-326,2522,Partition String Into Substrings With Values at Most K
+weekly-contest-326,2523,Closest Prime Numbers in Range
+biweekly-contest-95,2525,Categorize Box According to Criteria
+biweekly-contest-95,2526,Find Consecutive Integers from a Data Stream
+biweekly-contest-95,2527,Find Xor-Beauty of Array
+biweekly-contest-95,2528,Maximize the Minimum Powered City
+weekly-contest-327,2529,Maximum Count of Positive Integer and Negative Integer
+weekly-contest-327,2530,Maximal Score After Applying K Operations
+weekly-contest-327,2531,Make Number of Distinct Characters Equal
+weekly-contest-327,2532,Time to Cross a Bridge
+weekly-contest-328,2535,Difference Between Element Sum and Digit Sum of an Array
+weekly-contest-328,2536,Increment Submatrices by One
+weekly-contest-328,2537,Count the Number of Good Subarrays
+weekly-contest-328,2538,Difference Between Maximum and Minimum Price Sum
+biweekly-contest-96,2540,Minimum Common Value
+biweekly-contest-96,2541,Minimum Operations to Make Array Equal II
+biweekly-contest-96,2542,Maximum Subsequence Score
+biweekly-contest-96,2543,Check if Point Is Reachable
+weekly-contest-329,2544,Alternating Digit Sum
+weekly-contest-329,2545,Sort the Students by Their Kth Score
+weekly-contest-329,2546,Apply Bitwise Operations to Make Strings Equal
+weekly-contest-329,2547,Minimum Cost to Split an Array
+weekly-contest-330,2549,Count Distinct Numbers on Board
+weekly-contest-330,2550,Count Collisions of Monkeys on a Polygon
+weekly-contest-330,2551,Put Marbles in Bags
+weekly-contest-330,2552,Count Increasing Quadruplets
+biweekly-contest-97,2553,Separate the Digits in an Array
+biweekly-contest-97,2554,Maximum Number of Integers to Choose From a Range I
+biweekly-contest-97,2555,Maximize Win From Two Segments
+biweekly-contest-97,2556,Disconnect Path in a Binary Matrix by at Most One Flip
+weekly-contest-331,2558,Take Gifts From the Richest Pile
+weekly-contest-331,2559,Count Vowel Strings in Ranges
+weekly-contest-331,2560,House Robber IV
+weekly-contest-331,2561,Rearranging Fruits
+weekly-contest-332,2562,Find the Array Concatenation Value
+weekly-contest-332,2563,Count the Number of Fair Pairs
+weekly-contest-332,2564,Substring XOR Queries
+weekly-contest-332,2565,Subsequence With the Minimum Score
+biweekly-contest-98,2566,Maximum Difference by Remapping a Digit
+biweekly-contest-98,2567,Minimum Score by Changing Two Elements
+biweekly-contest-98,2568,Minimum Impossible OR
+biweekly-contest-98,2569,Handling Sum Queries After Update
+weekly-contest-333,2570,Merge Two 2D Arrays by Summing Values
+weekly-contest-333,2571,Minimum Operations to Reduce an Integer to 0
+weekly-contest-333,2572,Count the Number of Square-Free Subsets
+weekly-contest-333,2573,Find the String with LCP
+weekly-contest-334,2574,Left and Right Sum Differences
+weekly-contest-334,2575,Find the Divisibility Array of a String
+weekly-contest-334,2576,Find the Maximum Number of Marked Indices
+weekly-contest-334,2577,Minimum Time to Visit a Cell In a Grid
+biweekly-contest-99,2578,Split With Minimum Sum
+biweekly-contest-99,2579,Count Total Number of Colored Cells
+biweekly-contest-99,2580,Count Ways to Group Overlapping Ranges
+biweekly-contest-99,2581,Count Number of Possible Root Nodes
+weekly-contest-335,2582,Pass the Pillow
+weekly-contest-335,2583,Kth Largest Sum in a Binary Tree
+weekly-contest-335,2584,Split the Array to Make Coprime Products
+weekly-contest-335,2585,Number of Ways to Earn Points
+weekly-contest-336,2586,Count the Number of Vowel Strings in Range
+weekly-contest-336,2587,Rearrange Array to Maximize Prefix Score
+weekly-contest-336,2588,Count the Number of Beautiful Subarrays
+weekly-contest-336,2589,Minimum Time to Complete All Tasks
+biweekly-contest-100,2591,Distribute Money to Maximum Children
+biweekly-contest-100,2592,Maximize Greatness of an Array
+biweekly-contest-100,2593,Find Score of an Array After Marking All Elements
+biweekly-contest-100,2594,Minimum Time to Repair Cars
+weekly-contest-337,2595,Number of Even and Odd Bits
+weekly-contest-337,2596,Check Knight Tour Configuration
+weekly-contest-337,2597,The Number of Beautiful Subsets
+weekly-contest-337,2598,Smallest Missing Non-negative Integer After Operations
+weekly-contest-338,2600,K Items With the Maximum Sum
+weekly-contest-338,2601,Prime Subtraction Operation
+weekly-contest-338,2602,Minimum Operations to Make All Array Elements Equal
+weekly-contest-338,2603,Collect Coins in a Tree
+biweekly-contest-101,2605,Form Smallest Number From Two Digit Arrays
+biweekly-contest-101,2606,Find the Substring With Maximum Cost
+biweekly-contest-101,2607,Make K-Subarray Sums Equal
+biweekly-contest-101,2608,Shortest Cycle in a Graph
+weekly-contest-339,2609,Find the Longest Balanced Substring of a Binary String
+weekly-contest-339,2610,Convert an Array Into a 2D Array With Conditions
+weekly-contest-339,2611,Mice and Cheese
+weekly-contest-339,2612,Minimum Reverse Operations
+weekly-contest-340,2614,Prime In Diagonal
+weekly-contest-340,2615,Sum of Distances
+weekly-contest-340,2616,Minimize the Maximum Difference of Pairs
+weekly-contest-340,2617,Minimum Number of Visited Cells in a Grid
+biweekly-contest-102,2639,Find the Width of Columns of a Grid
+biweekly-contest-102,2640,Find the Score of All Prefixes of an Array
+biweekly-contest-102,2641,Cousins in Binary Tree II
+biweekly-contest-102,2642,Design Graph With Shortest Path Calculator
+weekly-contest-341,2643,Row With Maximum Ones
+weekly-contest-341,2644,Find the Maximum Divisibility Score
+weekly-contest-341,2645,Minimum Additions to Make Valid String
+weekly-contest-341,2646,Minimize the Total Price of the Trips
+weekly-contest-342,2651,Calculate Delayed Arrival Time
+weekly-contest-342,2652,Sum Multiples
+weekly-contest-342,2653,Sliding Subarray Beauty
+weekly-contest-342,2654,Minimum Number of Operations to Make All Array Elements Equal to 1
+biweekly-contest-103,2656,Maximum Sum With Exactly K Elements 
+biweekly-contest-103,2657,Find the Prefix Common Array of Two Arrays
+biweekly-contest-103,2658,Maximum Number of Fish in a Grid
+biweekly-contest-103,2659,Make Array Empty
+weekly-contest-343,2660,Determine the Winner of a Bowling Game
+weekly-contest-343,2661,First Completely Painted Row or Column
+weekly-contest-343,2662,Minimum Cost of a Path With Special Roads
+weekly-contest-343,2663,Lexicographically Smallest Beautiful String
+weekly-contest-344,2670,Find the Distinct Difference Array
+weekly-contest-344,2671,Frequency Tracker
+weekly-contest-344,2672,Number of Adjacent Elements With the Same Color
+weekly-contest-344,2673,Make Costs of Paths Equal in a Binary Tree
